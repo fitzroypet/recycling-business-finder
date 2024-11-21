@@ -41,7 +41,7 @@ recycling-businesses/
 1. Clone the repository:
 
 bash
-git clone https://github.com/yourusername/recycling-businesses.git
+git clone https://github.com/fitzroypet/recycling-businesses.git
 cd recycling-businesses
 
 
