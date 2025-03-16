@@ -1,0 +1,515 @@
+[
+  {
+    "name": "Greenflo Environmental Services Ltd",
+    "address": "Okpanam Rd, GRA Phase I, Asaba 320242, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.2239479,
+      "lng": 6.6799883
+    },
+    "place_id": "ChIJjZ3FG-KSQxARSg4E7w_hfA8",
+    "materials": [
+      "metal"
+    ],
+    "website_materials": {},
+    "phone": "0802 547 4239",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Okpanam Road",
+      "sublocality_level_1": "GRA Phase I",
+      "locality": "Asaba",
+      "administrative_area_level_3": "Ibusa III",
+      "administrative_area_level_2": "Oshimili North",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320242"
+    }
+  },
+  {
+    "name": "Danda recyclers ltd",
+    "address": "5 Onyebuchi Osakwe Street, Awada, Onitsha 434003, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.1763859,
+      "lng": 6.740036799999999
+    },
+    "place_id": "ChIJ850FoojtQxARPmjibN_sh_I",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0803 228 9407",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 PM",
+      "Thursday: 8:00 AM – 4:30 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: 8:30 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "5",
+      "route": "Onyebuchi Osakwe Street",
+      "neighborhood": "Awada",
+      "locality": "Onitsha",
+      "administrative_area_level_3": "Okwe",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "434003"
+    }
+  },
+  {
+    "name": "Delta State Waste Management Board",
+    "address": "5PX6+MV5, Ozoemena Oyiboka Street, Umuagu, Ahaba 320242, Ȯra Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.1991497,
+      "lng": 6.7122101
+    },
+    "place_id": "ChIJ2SGCUeHzQxARNTiiD37ANXc",
+    "materials": [
+      "general"
+    ],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "5PX6+MV5",
+      "route": "Ozoemena Oyiboka Street",
+      "neighborhood": "Umuagu",
+      "locality": "Asaba",
+      "administrative_area_level_3": "West End",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320242"
+    }
+  },
+  {
+    "name": "Valvic Global Services",
+    "address": "by Marble Hill Sch express junction, Valvic Industrial Avenue, opposite Asaba International Airport, Asaba 320108, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.216353199999999,
+      "lng": 6.6525896
+    },
+    "place_id": "ChIJH9q1oKfxQxAREXkpIKGkrYM",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0805 020 6867",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "by Marble Hill Sch express junction",
+      "street_number": "Valvic",
+      "landmark": "Asaba International Airport",
+      "route": "Industrial Avenue",
+      "locality": "Asaba",
+      "administrative_area_level_3": "Ibusa III",
+      "administrative_area_level_2": "Oshimili North",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320108"
+    }
+  },
+  {
+    "name": "Bread Depot",
+    "address": "5PHH+PXH, Lolo Uronne Street, Okwe, Asaba 320242, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.182894699999999,
+      "lng": 6.7275424
+    },
+    "place_id": "ChIJUQ2n5gLtQxARNzdwwvB6FkE",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0808 561 0103",
+    "website": null,
+    "rating": 3.9,
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "5PHH+PXH",
+      "route": "Lolo Uronne Street",
+      "sublocality_level_1": "Okwe",
+      "locality": "Asaba",
+      "administrative_area_level_3": "Umuaji",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320242"
+    }
+  },
+  {
+    "name": "Joevics Market Place",
+    "address": "Dennis Okonkwo, 18 Okpanam Rd, GRA Phase I, Asaba 320211, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.216671,
+      "lng": 6.6993373
+    },
+    "place_id": "ChIJ9YEBFanxQxARnTcMjarITrs",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0912 131 1025",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Dennis Okonkwo",
+      "street_number": "18",
+      "route": "Okpanam Road",
+      "sublocality_level_1": "GRA Phase I",
+      "locality": "Asaba",
+      "administrative_area_level_3": "West End",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320211"
+    }
+  },
+  {
+    "name": "TheNaijaFlix™",
+    "address": "Abuta Street oshimili north centre, Isieke, Asaba 320211, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.2067666,
+      "lng": 6.726591
+    },
+    "place_id": "ChIJqRtE8grzQxAROVtgWFGlkAA",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": "https://thenaijaflix.com/",
+    "rating": 4.8,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Asaba",
+      "sublocality_level_1": "Isieke",
+      "administrative_area_level_3": "Ugbomanta Quarters",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320211"
+    }
+  },
+  {
+    "name": "Rocksolid Organic Agro Enterprise",
+    "address": "7 Onochie Okolo Street, Bonsaac, Asaba 320212, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.1822142,
+      "lng": 6.7250054
+    },
+    "place_id": "ChIJkyF9llrzQxARCEVZzKEpIcU",
+    "materials": [
+      "organic",
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": "0815 076 6782",
+    "website": "https://rocksolidorganicagro.com.ng/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "7",
+      "route": "Onochie Okolo Street",
+      "sublocality_level_1": "Bonsaac",
+      "locality": "Asaba",
+      "administrative_area_level_3": "Umuaji",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320212"
+    }
+  },
+  {
+    "name": "ZOBIAC INTERNATIONAL SUPERMARKET",
+    "address": "Umuagu, Ahaba 320242, Ȯra Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.196198499999999,
+      "lng": 6.703962499999999
+    },
+    "place_id": "ChIJuRqGnX_yQxARH0nt2FKPSYg",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0706 183 0018",
+    "website": null,
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "sublocality_level_1": "Umuagu",
+      "locality": "Ahaba",
+      "administrative_area_level_3": "West End",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Ȯra Delta",
+      "country": "Nigeria",
+      "postal_code": "320242"
+    }
+  },
+  {
+    "name": "Indian Super Market buchilaxmi global series",
+    "address": "Umuagu, Ahaba 320242, Ȯra Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.1973132,
+      "lng": 6.7060247
+    },
+    "place_id": "ChIJreNQ0H_yQxARosXMbPba35w",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0705 210 9806",
+    "website": null,
+    "rating": 3.8,
+    "opening_hours": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 12:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "sublocality_level_1": "Umuagu",
+      "neighborhood": "Umuagu",
+      "locality": "Ahaba",
+      "administrative_area_level_3": "West End",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Ȯra Delta",
+      "country": "Nigeria",
+      "postal_code": "320242"
+    }
+  },
+  {
+    "name": "The Device Place",
+    "address": "Plot 61, Phase III, Core Area, Okpanam Rd, opp. NTA, Central Area, Asaba 520001, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.219572899999999,
+      "lng": 6.6814852
+    },
+    "place_id": "ChIJZW01dpjyQxAR5ZazrvGSDK8",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0802 363 4802",
+    "website": "https://flutterwave.com/store/thedeviceplace",
+    "rating": 4.7,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 PM",
+      "Thursday: 8:00 AM – 4:30 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: 11:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "NTA",
+      "route": "Okpanam Road",
+      "neighborhood": "Central Area",
+      "locality": "Asaba",
+      "administrative_area_level_3": "Ibusa III",
+      "administrative_area_level_2": "Oshimili North",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "520001"
+    }
+  },
+  {
+    "name": "ZODIAX GLOBAL SERVICES",
+    "address": "No 40 Agric Road, Off Nnebisi Road, Umuagu, Asaba 320121, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.205882,
+      "lng": 6.7075564
+    },
+    "place_id": "ChIJ5UtChCTzQxARucnMQ4rT8hI",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ]
+    },
+    "phone": "0805 408 8920",
+    "website": "https://youtube.com/channel/UCbHMsglgbcdMDEuVtAEb5lg",
+    "rating": 4.7,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 6:30 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 4:30 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 12:00 – 6:00 AM, 2:00 – 6:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "Off",
+      "route": "Nnebisi Road",
+      "neighborhood": "Umuagu",
+      "locality": "Asaba",
+      "administrative_area_level_3": "West End",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320121"
+    }
+  },
+  {
+    "name": "ELION Phones Asaba",
+    "address": "First edition plaza, suite 52 Nnebisi Road, opp. ST. Patrick's college, Isieke, Asaba 320242, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.2131275,
+      "lng": 6.7073193
+    },
+    "place_id": "ChIJZZLpidvzQxARlXzdVbquIG8",
+    "materials": [
+      "electronics"
+    ],
+    "website_materials": {},
+    "phone": "0703 853 6113",
+    "website": null,
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:30 PM",
+      "Tuesday: 9:00 AM – 6:30 PM",
+      "Wednesday: 9:00 AM – 6:30 PM",
+      "Thursday: 9:00 AM – 6:30 PM",
+      "Friday: 9:00 AM – 6:30 PM",
+      "Saturday: 9:00 AM – 6:30 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "First edition plaza",
+      "street_number": "suite 52",
+      "landmark": "ST. Patrick's college",
+      "route": "Nnebisi Road",
+      "sublocality_level_1": "Isieke",
+      "locality": "Asaba",
+      "administrative_area_level_3": "West End",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320242"
+    }
+  },
+  {
+    "name": "JOFA",
+    "address": "12 Dansaba street, beside Stephen Keshi stadium, Isieke, Asaba 320242, Delta, Nigeria",
+    "coordinates": {
+      "lat": 6.2069858,
+      "lng": 6.720294699999999
+    },
+    "place_id": "ChIJ72O62fvzQxARf9nD03jnEGs",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0913 331 2046",
+    "website": "https://www.jofootball.com/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 4:00 – 6:30 PM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: Closed",
+      "Saturday: 6:00 – 11:30 AM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "12",
+      "landmark": "Stephen Keshi stadium",
+      "route": "Dansaba street",
+      "sublocality_level_1": "Isieke",
+      "locality": "Asaba",
+      "administrative_area_level_3": "West End",
+      "administrative_area_level_2": "Oshimili South",
+      "administrative_area_level_1": "Delta",
+      "country": "Nigeria",
+      "postal_code": "320242"
+    }
+  }
+]

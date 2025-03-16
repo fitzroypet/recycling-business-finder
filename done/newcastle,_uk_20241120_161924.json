@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Byker Household waste recycling centre",
+    "address": "Glasshouse St, Newcastle upon Tyne NE6 1AH, UK",
+    "coordinates": {
+      "lat": 54.9680875,
+      "lng": -1.5769091
+    },
+    "place_id": "ChIJfUXTDY5wfkgRxezYGYEIXFE",
+    "materials": [
+      "glass",
+      "textile",
+      "automotive",
+      "metal",
+      "plastic",
+      "paper"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "newspaper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "textile": [
+        "clothing"
+      ]
+    },
+    "phone": "0191 278 3943",
+    "website": "https://www.newcastle.gov.uk/services/environment-and-waste/recycling-rubbish-and-waste/household-waste-recycling-centres-0",
+    "rating": 3.9,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Glasshouse Street",
+      "postal_town": "Newcastle upon Tyne",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE6 1AH"
+    }
+  },
+  {
+    "name": "IK-Eco Limited t/a Aim to Recycle",
+    "address": "Abbotsford Rd, Gateshead NE10 0EX, UK",
+    "coordinates": {
+      "lat": 54.9551753,
+      "lng": -1.5607924
+    },
+    "place_id": "ChIJcTOY739wfkgRq77Mus9tEvg",
+    "materials": [
+      "metal",
+      "plastic",
+      "paper",
+      "hazardous"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "0191 469 8583",
+    "website": "http://aimtorecycle.co.uk/",
+    "rating": 4.2,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Abbotsford Road",
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE10 0EX"
+    }
+  },
+  {
+    "name": "NE WasteAway Ltd",
+    "address": "Unit 9, Stadium Industrial Park, Gateshead NE10 0XF, UK",
+    "coordinates": {
+      "lat": 54.96118670000001,
+      "lng": -1.582948
+    },
+    "place_id": "ChIJE1G_MH1xfkgRhl4IBJyn36Y",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": "0800 689 1286",
+    "website": "http://www.newasteaway.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Unit 9",
+      "premise": "Stadium Industrial Park",
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE10 0XF"
+    }
+  },
+  {
+    "name": "JMC Waste Disposal",
+    "address": "8 St. Lawrence Rd, Newcastle upon Tyne NE6 1AR, UK",
+    "coordinates": {
+      "lat": 54.96826249999999,
+      "lng": -1.581546
+    },
+    "place_id": "ChIJZZll3oxxfkgRzD6BgtsI79o",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07922 254777",
+    "website": "https://jmcwastedisposal.co.uk/about-us/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:30 PM",
+      "Tuesday: 7:00 AM – 5:30 PM",
+      "Wednesday: 7:00 AM – 5:30 PM",
+      "Thursday: 7:00 AM – 5:30 PM",
+      "Friday: 7:00 AM – 5:30 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "8",
+      "route": "Saint Lawrence Road",
+      "postal_town": "Newcastle upon Tyne",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE6 1AR"
+    }
+  },
+  {
+    "name": "Recycling Monkey",
+    "address": "19 Larkspur Terrace, Jesmond, Newcastle upon Tyne NE2 2DT, UK",
+    "coordinates": {
+      "lat": 54.9912546,
+      "lng": -1.6056876
+    },
+    "place_id": "ChIJvfz7udlwfkgRwRfs9FE5CpU",
+    "materials": [
+      "metal",
+      "plastic",
+      "paper",
+      "automotive"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron",
+        "scrap metal"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "0333 900 0500",
+    "website": "https://recyclingmonkey.co.uk/",
+    "rating": 2.6,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "19",
+      "route": "Larkspur Terrace",
+      "sublocality_level_1": "Jesmond",
+      "postal_town": "Newcastle upon Tyne",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE2 2DT"
+    }
+  },
+  {
+    "name": "Riverdale recycling",
+    "address": "Team Valley Trading Estate, Gateshead NE11 0RQ, UK",
+    "coordinates": {
+      "lat": 54.9389001,
+      "lng": -1.6161866
+    },
+    "place_id": "ChIJ3SzvTeF7fkgRM0YMwmhA-m8",
+    "materials": [
+      "metal",
+      "plastic",
+      "paper"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper"
+      ]
+    },
+    "phone": "0191 482 4271",
+    "website": "https://riverdalepaper.plc.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "neighborhood": "Team Valley Trading Estate",
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE11 0RQ"
+    }
+  },
+  {
+    "name": "ManagedWaste",
+    "address": "Floor 1, 20 Collingwood St, Newcastle upon Tyne NE1 1JF, UK",
+    "coordinates": {
+      "lat": 54.97015159999999,
+      "lng": -1.6130816
+    },
+    "place_id": "ChIJT3BDh7ZwfkgR5Et8kHOFtMs",
+    "materials": [
+      "glass",
+      "organic",
+      "metal",
+      "plastic",
+      "hazardous"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "organic": [
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": null,
+    "website": "https://www.cheaperwaste.co.uk/",
+    "rating": 1.2,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Floor 1",
+      "street_number": "20",
+      "route": "Collingwood Street",
+      "postal_town": "Newcastle upon Tyne",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE1 1JF"
+    }
+  },
+  {
+    "name": "Rooneys Scrap Merchants - Gateshead - Tyneside - Tyne & Wear - North East England",
+    "address": "S Shore Rd, Gateshead NE8 3AE, UK",
+    "coordinates": {
+      "lat": 54.9674253,
+      "lng": -1.58704
+    },
+    "place_id": "ChIJd5hmopVwfkgRnzY7eS9bVS0",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ]
+    },
+    "phone": "0191 478 7833",
+    "website": "https://www.rooneysscrapmerchantsltd.com/",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 PM",
+      "Thursday: 8:00 AM – 4:30 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "South Shore Road",
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE8 3AE"
+    }
+  },
+  {
+    "name": "Inspire Waste Management LTD",
+    "address": "Unit 28, North East Fruit & Veg Market, Gateshead NE11 0QY, UK",
+    "coordinates": {
+      "lat": 54.9386467,
+      "lng": -1.6136638
+    },
+    "place_id": "ChIJQc6zLjZ4fkgRdDYAKvKeLJw",
+    "materials": [
+      "general",
+      "electronics",
+      "metal",
+      "plastic",
+      "paper",
+      "hazardous"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "electronics": [
+        "electronics"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "0800 002 9282",
+    "website": "https://inspirewaste.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE11 0QY"
+    }
+  },
+  {
+    "name": "N E Recycling",
+    "address": "Mary's Pl, Newcastle upon Tyne NE6 3PZ, UK",
+    "coordinates": {
+      "lat": 54.9760581,
+      "lng": -1.5381257
+    },
+    "place_id": "ChIJ262NgD9wfkgR2xkOmsWfpEA",
+    "materials": [
+      "paper",
+      "plastic",
+      "hazardous"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "0191 462 0450",
+    "website": "http://nerecycling.co.uk/",
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Mary's Place",
+      "postal_town": "Newcastle upon Tyne",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE6 3PZ"
+    }
+  },
+  {
+    "name": "SUEZ recycling and recovery UK",
+    "address": "304 Walker Rd, Byker, Newcastle upon Tyne NE6 1AH, UK",
+    "coordinates": {
+      "lat": 54.9682861,
+      "lng": -1.5763594
+    },
+    "place_id": "ChIJAQC43PlxfkgR--TC1iRK7RI",
+    "materials": [
+      "glass",
+      "hazardous",
+      "metal",
+      "plastic",
+      "paper",
+      "organic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "0191 275 9144",
+    "website": "https://bit.ly/GBP_SUEZ_North",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "304",
+      "route": "Walker Road",
+      "sublocality_level_1": "Byker",
+      "postal_town": "Newcastle upon Tyne",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE6 1AH"
+    }
+  },
+  {
+    "name": "Gurteen Recycling",
+    "address": "Bellway Industrial Estate, Whitley Rd, Longbenton, Newcastle upon Tyne NE12 9SW, UK",
+    "coordinates": {
+      "lat": 55.017229,
+      "lng": -1.5523641
+    },
+    "place_id": "ChIJDcSxnr1xfkgR1e2BULtMov4",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0845 680 8101",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Whitley Road",
+      "locality": "Longbenton",
+      "postal_town": "Newcastle upon Tyne",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE12 9SW"
+    }
+  },
+  {
+    "name": "DD Rubbish Removal",
+    "address": "3 Thomas St, Westerhope, Newcastle upon Tyne NE5 5JJ, UK",
+    "coordinates": {
+      "lat": 54.9959266,
+      "lng": -1.6947237
+    },
+    "place_id": "ChIJ-_caGFN3fkgRlfsW4IF-1Qs",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07510 725183",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "3",
+      "route": "Thomas Street",
+      "sublocality_level_1": "Westerhope",
+      "postal_town": "Newcastle upon Tyne",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE5 5JJ"
+    }
+  },
+  {
+    "name": "We Buy Scrap Cars North East",
+    "address": "Felling Business Centre, Green Ln, Gateshead NE10 0QH, UK",
+    "coordinates": {
+      "lat": 54.95883509999999,
+      "lng": -1.568368
+    },
+    "place_id": "ChIJiS0Q-4ZwfkgRwuNJCk51Rxo",
+    "materials": [
+      "metal",
+      "automotive"
+    ],
+    "website_materials": {},
+    "phone": "0191 469 2728",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 7:30 AM – 8:00 PM",
+      "Tuesday: 7:30 AM – 8:00 PM",
+      "Wednesday: 7:30 AM – 8:00 PM",
+      "Thursday: 7:30 AM – 8:00 PM",
+      "Friday: 7:30 AM – 8:00 PM",
+      "Saturday: 7:30 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Felling Business Centre",
+      "route": "Green Lane",
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE10 0QH"
+    }
+  },
+  {
+    "name": "Stoneygate Metals",
+    "address": "Stoneygate Ln, Gateshead NE10 0HJ, UK",
+    "coordinates": {
+      "lat": 54.9544445,
+      "lng": -1.5595612
+    },
+    "place_id": "ChIJcTOY739wfkgRW8tuC4sgJdo",
+    "materials": [
+      "metal"
+    ],
+    "website_materials": {},
+    "phone": "0191 469 8089",
+    "website": null,
+    "rating": 3.7,
+    "opening_hours": [
+      "Monday: 12:00 – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 PM",
+      "Thursday: 8:00 AM – 4:30 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: 7:30 – 10:00 AM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Stoneygate Lane",
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE10 0HJ"
+    }
+  },
+  {
+    "name": "Ward Bros Steel Ltd",
+    "address": "Unit 2/Quality Row, Byker, Newcastle upon Tyne NE6 1LB, UK",
+    "coordinates": {
+      "lat": 54.9733568,
+      "lng": -1.5878917
+    },
+    "place_id": "ChIJGaK2JOtwfkgRPw93S8pP6JE",
+    "materials": [
+      "metal"
+    ],
+    "website_materials": {},
+    "phone": "0191 224 5831",
+    "website": null,
+    "rating": 2.9,
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Newcastle upon Tyne",
+      "sublocality_level_1": "Byker",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE6 1LB"
+    }
+  },
+  {
+    "name": "Tyne Autos",
+    "address": "13 S Shore Rd, Gateshead NE8 3AE, UK",
+    "coordinates": {
+      "lat": 54.969321,
+      "lng": -1.5908493
+    },
+    "place_id": "ChIJyTy0frxxfkgRoqB3JM1_9o4",
+    "materials": [
+      "paper",
+      "plastic",
+      "automotive"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "07505 402064",
+    "website": "http://www.tyneautos.co.uk/",
+    "rating": 4.7,
+    "opening_hours": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 11:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "13",
+      "route": "South Shore Road",
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE8 3AE"
+    }
+  },
+  {
+    "name": "GAP Group (NE) Ltd WEEE RECYCLE",
+    "address": "GAP House, Nest Rd, Gateshead NE10 0ES, UK",
+    "coordinates": {
+      "lat": 54.95849949999999,
+      "lng": -1.5649456
+    },
+    "place_id": "ChIJkcyRY4dwfkgRG6pbUNLGPK0",
+    "materials": [
+      "electronics",
+      "batteries",
+      "metal",
+      "plastic",
+      "organic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "electronics": [
+        "e-waste"
+      ],
+      "batteries": [
+        "batteries",
+        "battery"
+      ],
+      "organic": [
+        "organic waste"
+      ]
+    },
+    "phone": "0191 438 6438",
+    "website": "http://www.gapgroupuk.com/",
+    "rating": 4.4,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "GAP House",
+      "route": "Nest Road",
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE10 0ES"
+    }
+  },
+  {
+    "name": "Rent a Skip Longbenton",
+    "address": "Purbeck Rd, Longbenton, Newcastle upon Tyne NE12 8NE, UK",
+    "coordinates": {
+      "lat": 55.0136181,
+      "lng": -1.5839729
+    },
+    "place_id": "ChIJnWfGbOBxfkgRZ5wYoyVMDSU",
+    "materials": [
+      "metal",
+      "plastic",
+      "automotive"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "0191 607 1320",
+    "website": "https://www.tyneandwear-skiphire.co.uk/skip-hire-in-longbenton/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Purbeck Road",
+      "locality": "Longbenton",
+      "postal_town": "Newcastle upon Tyne",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE12 8NE"
+    }
+  },
+  {
+    "name": "Auto Recycling Centre",
+    "address": "Ropery Rd, Gateshead NE8 2RG, UK",
+    "coordinates": {
+      "lat": 54.9519405,
+      "lng": -1.6331582
+    },
+    "place_id": "ChIJ50ShApl3fkgRRbDWEkJVHZA",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ]
+    },
+    "phone": "0191 460 9699",
+    "website": "http://www.autorecyclingcentre.com/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:30 PM",
+      "Tuesday: 8:00 AM – 5:30 PM",
+      "Wednesday: 8:00 AM – 5:30 PM",
+      "Thursday: 8:00 AM – 5:30 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Ropery Road",
+      "postal_town": "Gateshead",
+      "administrative_area_level_2": "Tyne and Wear",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "NE8 2RG"
+    }
+  }
+]

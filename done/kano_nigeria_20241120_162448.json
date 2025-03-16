@@ -1,0 +1,700 @@
+[
+  {
+    "name": "TOP POINT RECYCLERS",
+    "address": "small scale industrial area, Dakata 702101, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0330755,
+      "lng": 8.590579
+    },
+    "place_id": "ChIJJ3pLEoSFrhERMp4GTuS3WsA",
+    "materials": [
+      "metal",
+      "electronics",
+      "organic",
+      "plastic",
+      "glass",
+      "paper"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "electronics": [
+        "electronics"
+      ],
+      "organic": [
+        "compost"
+      ]
+    },
+    "phone": "0905 745 6389",
+    "website": "https://www.toppointrecyclers.com/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:30 PM",
+      "Tuesday: 8:00 AM – 5:30 PM",
+      "Wednesday: 8:00 AM – 5:30 PM",
+      "Thursday: 8:00 AM – 5:30 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "small scale industrial area",
+      "locality": "Dakata",
+      "administrative_area_level_3": "Ungogo",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "702101"
+    }
+  },
+  {
+    "name": "Liteview",
+    "address": "No 81, Jigirya B. Kawaji off, Hadejia Road, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 11.9982966,
+      "lng": 8.6037459
+    },
+    "place_id": "ChIJ3bJSDRSDrhERzSG7fLPR7TA",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0816 547 0230",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Hadejia Road",
+      "locality": "Kano",
+      "administrative_area_level_3": "Kawaji",
+      "administrative_area_level_2": "Nassarawa",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "AuwalHeroVentures",
+    "address": "fatima berrel market, 2HHP+788, Kano 703201, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0281633,
+      "lng": 8.585813
+    },
+    "place_id": "ChIJswLYfXCDrhERghOnxmaaP0k",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": "0806 379 7962",
+    "website": "http://auwalheroventures.blogspot.com/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "2HHP+788",
+      "locality": "Kano",
+      "administrative_area_level_3": "Dakata",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "703201"
+    }
+  },
+  {
+    "name": "The Waste Reclaim Company",
+    "address": "48 kawagi street, Hadejia Road, Kawo, Kano 700111, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0062613,
+      "lng": 8.5740233
+    },
+    "place_id": "ChIJ0WsMDfaDrhERXVTrNnAL8_0",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0708 083 0433",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Hadejia Road",
+      "neighborhood": "Kawo",
+      "locality": "Kano",
+      "administrative_area_level_3": "Kawaji",
+      "administrative_area_level_2": "Nassarawa",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700111"
+    }
+  },
+  {
+    "name": "Trash and eco solutions",
+    "address": "No: 2 Ladanai Quarters, Off Tsamiya Road, Nassarawa, Kano 700281, Kano, Nigeria",
+    "coordinates": {
+      "lat": 11.9970897,
+      "lng": 8.5830907
+    },
+    "place_id": "ChIJjSsD3JeDrhER7e_HCULK2zk",
+    "materials": [
+      "metal",
+      "plastic",
+      "organic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "organic": [
+        "compost"
+      ]
+    },
+    "phone": "0803 430 6264",
+    "website": "https://trashsolutions.ng/",
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "Off",
+      "route": "Tsamiya Road",
+      "neighborhood": "Nassarawa",
+      "locality": "Kano",
+      "administrative_area_level_3": "Giginyu",
+      "administrative_area_level_2": "Nassarawa",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700281"
+    }
+  },
+  {
+    "name": "Gwagwarwa oil Mills recycling and rice processing",
+    "address": "Dakata small scale industry Nassarawa, Kano 700271, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0412154,
+      "lng": 8.5893815
+    },
+    "place_id": "ChIJ3xrbgvaFrhERi2I0rfQ4_s0",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0912 100 8188",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Kano",
+      "administrative_area_level_3": "Rangaza",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700271"
+    }
+  },
+  {
+    "name": "Halba Plastic & Recycling Company Ltd",
+    "address": "No.10 K/Tipper Off Zango Road, Dakata Industrial Area, 2HHP+788, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0281668,
+      "lng": 8.585812299999999
+    },
+    "place_id": "ChIJAQAAAPeDrhERtSD_tmpvsY0",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {},
+    "phone": "0805 362 1234",
+    "website": null,
+    "rating": 3.3,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "2HHP+788",
+      "locality": "Kano",
+      "administrative_area_level_3": "Dakata",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "HAAU GLOBAL ENTERPRISES",
+    "address": "Small Scale Industries, Dawakin Dakata Primary School, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0321978,
+      "lng": 8.580953899999999
+    },
+    "place_id": "ChIJOZAzAyOFrhERBRMHPVoVPjA",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0803 207 5902",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 10:00 PM – 12:00 AM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Dawakin Dakata Primary School",
+      "locality": "Kano",
+      "administrative_area_level_3": "Dakata",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "Busy Broom recycling services",
+    "address": "Off independence road, Dawakin, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0297429,
+      "lng": 8.5832108
+    },
+    "place_id": "ChIJf0l4hcaDrhERw5Fm9hl3lSQ",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0803 899 0187",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Kano",
+      "administrative_area_level_3": "Dakata",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "FAGO INNOVATIONS LIMITED",
+    "address": "115 Danladi Ali Street Yankaba, Hadejia Road, central, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0084955,
+      "lng": 8.5750985
+    },
+    "place_id": "ChIJNfFTy7CDrhERmITDCDUEjsw",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PS"
+      ]
+    },
+    "phone": "0806 655 5171",
+    "website": "https://fagoinnovationslimited.wordpress.com/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Hadejia Road",
+      "neighborhood": "Badawa",
+      "locality": "Kano",
+      "administrative_area_level_3": "Kawaji",
+      "administrative_area_level_2": "Nassarawa",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "DUNARI VENTURE'S Recycling",
+    "address": "Gidan bulo me ɗorawa Ungoggo, Kano 700101, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0432562,
+      "lng": 8.5980007
+    },
+    "place_id": "ChIJO2QJuOqFrhERmAHXYU7TlCE",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0802 055 3499",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Kano",
+      "administrative_area_level_3": "Rangaza",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700101"
+    }
+  },
+  {
+    "name": "eTrash2Cash",
+    "address": "Plot 44A, Dawakin, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0329003,
+      "lng": 8.5818733
+    },
+    "place_id": "ChIJbTKH82aFrhERL0kyCq1EZTE",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": "0706 674 4074",
+    "website": "http://www.etrash2cash.com/",
+    "rating": 3.9,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Kano",
+      "administrative_area_level_3": "Dakata",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "Zainab Saminu Muhammad",
+    "address": "No.1512 Jaen Makera, Mosque, Kawo, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0021529,
+      "lng": 8.5919749
+    },
+    "place_id": "ChIJRWpcum2DrhERSo_n0IlwsGA",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0803 959 6229",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Mosque",
+      "neighborhood": "Kawo",
+      "locality": "Kano",
+      "administrative_area_level_3": "Hotoro North",
+      "administrative_area_level_2": "Nassarawa",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "Anthophila Empire",
+    "address": "10 Kaloma, Ali Yakasai St, Nassarawa, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 11.9983572,
+      "lng": 8.5495714
+    },
+    "place_id": "ChIJMdS3LqiBrhER2g1XeoCF-Gw",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PET",
+        "HDPE",
+        "PVC",
+        "LDPE",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": "0803 991 2638",
+    "website": "https://www.anthophilae.com/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Ali Yakasai Street",
+      "neighborhood": "Nassarawa",
+      "locality": "Kano",
+      "administrative_area_level_3": "Giginyu",
+      "administrative_area_level_2": "Fagge",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "Boola",
+    "address": "No. 2 Abdullahi Bayero Rd, Nassarawa, Kano 700222, Kano, Nigeria",
+    "coordinates": {
+      "lat": 11.9952537,
+      "lng": 8.5499478
+    },
+    "place_id": "ChIJN0NR1XKBrhERCtRs3CXloXY",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0813 331 0009",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "No. 2",
+      "route": "Abdullahi Bayero Road",
+      "neighborhood": "Nassarawa",
+      "locality": "Kano",
+      "administrative_area_level_3": "Giginyu",
+      "administrative_area_level_2": "Fagge",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700222"
+    }
+  },
+  {
+    "name": "ABTGroup.Africa",
+    "address": "2HH8+6M3 kwanar yan ghana, Nassarawa, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0280123,
+      "lng": 8.5666859
+    },
+    "place_id": "ChIJkZbQ1raBrhERTKHD7vXzRGc",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0803 749 5431",
+    "website": null,
+    "rating": 1,
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:30 PM",
+      "Tuesday: 8:30 AM – 5:30 PM",
+      "Wednesday: 8:30 AM – 5:30 PM",
+      "Thursday: 8:30 AM – 5:30 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:30 AM – 5:30 PM",
+      "Sunday: 8:30 AM – 3:30 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "kwanar yan ghana",
+      "plus_code": "2HH8+6M3",
+      "neighborhood": "Nassarawa",
+      "locality": "Kano",
+      "administrative_area_level_3": "Tudun Murtala",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "AMDANG INTERPRISE",
+    "address": "NO 56 FILIN KALOMA, OPPOSITE WAEC HEAD OFFICE, KANO YADAKUYYA ROAD, KANO NASSSARAWA, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0314885,
+      "lng": 8.5675287
+    },
+    "place_id": "ChIJy-wWtN6BrhERXyH5jbNNlX0",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0803 361 1830",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:30 AM",
+      "Tuesday: 8:00 AM – 5:30 AM",
+      "Wednesday: 8:00 AM – 5:30 AM",
+      "Thursday: 8:00 AM – 5:30 AM",
+      "Friday: 11:00 AM – 5:30 PM",
+      "Saturday: 11:00 AM – 5:30 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Kano",
+      "administrative_area_level_3": "Tudun Murtala",
+      "administrative_area_level_2": "Ungongo",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "Abdulmatiahib mansu",
+    "address": "Koforkudo central masjid, Kawo, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0021529,
+      "lng": 8.5919749
+    },
+    "place_id": "ChIJyZKxeCGDrhEReG2dF_5cvXo",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0903 507 9658",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Koforkudo central masjid",
+      "neighborhood": "Kawo",
+      "locality": "Kano",
+      "administrative_area_level_3": "Hotoro North",
+      "administrative_area_level_2": "Nassarawa",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "Silver Plastics Ltd",
+    "address": "Bompai Industrial Estate, 100 Maganda Rd, Fagge, Kano 700213, Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0173724,
+      "lng": 8.5488486
+    },
+    "place_id": "ChIJkTkYjTiBrhER29mENOLK_Z0",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {},
+    "phone": "64630370",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Bompai Industrial Estate",
+      "street_number": "100",
+      "route": "Maganda Road",
+      "neighborhood": "Fagge",
+      "locality": "Kano",
+      "administrative_area_level_3": "Tudun Wada",
+      "administrative_area_level_2": "Fagge",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700213"
+    }
+  },
+  {
+    "name": "Jumia Kano Station",
+    "address": "Zaria Rd, Gyadi Gyadi, Kano 700101, Kano, Nigeria",
+    "coordinates": {
+      "lat": 11.9721295,
+      "lng": 8.5459324
+    },
+    "place_id": "ChIJBep-XryBrhERuKoquy_3tuw",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": "https://abuabdulrahmancommunication.com/",
+    "rating": 3.9,
+    "opening_hours": [
+      "Monday: 10:00 AM – 5:30 PM",
+      "Tuesday: 10:00 AM – 5:30 PM",
+      "Wednesday: 10:00 AM – 5:30 PM",
+      "Thursday: 10:00 AM – 5:30 PM",
+      "Friday: 10:30 AM – 5:30 PM",
+      "Saturday: 11:00 AM – 5:30 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Zaria Road",
+      "neighborhood": "Gyadi Gyadi",
+      "locality": "Kano",
+      "administrative_area_level_3": "Gyadi Gyadi Kudu",
+      "administrative_area_level_2": "Tarauni",
+      "administrative_area_level_1": "Kano",
+      "country": "Nigeria",
+      "postal_code": "700101"
+    }
+  }
+]

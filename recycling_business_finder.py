@@ -6,6 +6,8 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from time import sleep
+import pandas as pd
+import os
 
 class RecyclingBusiness:
     def __init__(self, name: str, address: str):
@@ -183,19 +185,32 @@ def main():
     finder = EnhancedRecyclingFinder(GOOGLE_API_KEY)
     
     try:
-        location = input("Enter location (city, country): ")
-        print("\nSearching for recycling businesses and analyzing materials...")
-        results = finder.search_businesses(location)
+        # Read the CSV file to get the list of cities
+        cities_df = pd.read_csv('data/CityPopulation - Sheet1.csv')
+        cities = cities_df['Built-up area'].tolist()
         
-        print(f"\nFound {len(results)} recycling businesses:\n")
+        all_results = []
+        unique_place_ids = set()  # To track unique place IDs
         
-        # Save results to JSON file
-        filename = f"{location.replace(' ', '_').lower()}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        for city in cities:
+            print(f"\nSearching for recycling businesses in {city}, UK...")
+            results = finder.search_businesses(f"{city}, UK")
+            
+            for business in results:
+                if business.place_id not in unique_place_ids:
+                    unique_place_ids.add(business.place_id)
+                    all_results.append(business)
+        
+        print(f"\nFound {len(all_results)} unique recycling businesses:\n")
+        
+        # Save results to JSON file in the recyclers folder
+        os.makedirs('recyclers', exist_ok=True)  # Create recyclers folder if it doesn't exist
+        filename = f"recyclers/{city.replace(' ', '_').lower()}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
         with open(filename, 'w', encoding='utf-8') as f:
-            json.dump([business.to_dict() for business in results], f, indent=2, ensure_ascii=False)
+            json.dump([business.to_dict() for business in all_results], f, indent=2, ensure_ascii=False)
         
         # Display results
-        for business in results:
+        for business in all_results:
             print(f"\nName: {business.name}")
             print(f"Address: {business.address}")
             print(f"Coordinates: {business.coordinates['lat']}, {business.coordinates['lng']}")

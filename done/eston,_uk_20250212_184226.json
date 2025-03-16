@@ -1,0 +1,854 @@
+[
+  {
+    "name": "Signif Recycling",
+    "address": "Middlesbrough TS3 8BT, UK",
+    "coordinates": {
+      "lat": 54.57030349999999,
+      "lng": -1.1990488
+    },
+    "place_id": "ChIJL7GDg2vtfkgRtb3sM2NLVNI",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07462 005205",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 4:00 AM",
+      "Tuesday: 9:00 AM – 4:00 AM",
+      "Wednesday: 9:00 AM – 4:00 AM",
+      "Thursday: 9:00 AM – 4:00 AM",
+      "Friday: 9:00 AM – 4:00 AM",
+      "Saturday: 9:00 AM – 4:00 AM",
+      "Sunday: 9:00 AM – 4:00 AM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Middlesbrough",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8BT"
+    }
+  },
+  {
+    "name": "ML waste recycling",
+    "address": "5 Ellerby Rd, Middlesbrough TS6 8AT, UK",
+    "coordinates": {
+      "lat": 54.56701109999999,
+      "lng": -1.1361811
+    },
+    "place_id": "ChIJ_4t9rJ3vfkgRh-Lz89JypFI",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07517 729021",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "5",
+      "route": "Ellerby Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 8AT"
+    }
+  },
+  {
+    "name": "Palm Recycling",
+    "address": "Pearsons Yard, Puddlers Rd, Middlesbrough TS6 6TX, UK",
+    "coordinates": {
+      "lat": 54.5825347,
+      "lng": -1.1727699
+    },
+    "place_id": "ChIJVfjWreDtfkgRP_qINIgvy_g",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 456274",
+    "website": null,
+    "rating": 4,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Pearsons Yard",
+      "route": "Puddlers Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 6TX"
+    }
+  },
+  {
+    "name": "J&B Recycling (South Tees)",
+    "address": "Normanby Wharf, Middlesbrough TS3 8AT, UK",
+    "coordinates": {
+      "lat": 54.5797079,
+      "lng": -1.1966806
+    },
+    "place_id": "ChIJ0YHkS7btfkgR9i75ANg5WSY",
+    "materials": [
+      "metal",
+      "plastic",
+      "glass",
+      "paper",
+      "hazardous",
+      "organic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "organic": [
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "01642 232215",
+    "website": "https://www.jbrecycling.co.uk/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:30 PM",
+      "Tuesday: 7:00 AM – 4:30 PM",
+      "Wednesday: 7:00 AM – 4:30 PM",
+      "Thursday: 7:00 AM – 4:30 PM",
+      "Friday: 7:00 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Normanby Wharf",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8AT"
+    }
+  },
+  {
+    "name": "Recycling IT",
+    "address": "Tees Court, Wallis Rd, Skippers Lane Industrial Estate, Middlesbrough TS6 6JB, UK",
+    "coordinates": {
+      "lat": 54.5717904,
+      "lng": -1.1843371
+    },
+    "place_id": "ChIJod7MksXtfkgROxRaqt_BiAE",
+    "materials": [
+      "electronics",
+      "metal",
+      "plastic",
+      "glass",
+      "paper",
+      "organic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "electronics": [
+        "e-waste",
+        "computers",
+        "electronic waste"
+      ],
+      "organic": [
+        "food waste"
+      ]
+    },
+    "phone": "01642 455466",
+    "website": "http://www.recycling-it.co.uk/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 3:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Tees Court",
+      "route": "Wallis Road",
+      "locality": "Skippers Lane Industrial Estate",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 6JB"
+    }
+  },
+  {
+    "name": "SUEZ recycling and recovery UK",
+    "address": "Wilton International, Redcar, Lazenby, Middlesbrough TS10 4RG, UK",
+    "coordinates": {
+      "lat": 54.5873291,
+      "lng": -1.1301645
+    },
+    "place_id": "ChIJM2ZpekTvfkgRH-W6iZ4q0nA",
+    "materials": [
+      "metal",
+      "plastic",
+      "glass",
+      "paper",
+      "hazardous",
+      "organic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": null,
+    "website": "https://bit.ly/GBP_SUEZ_North",
+    "rating": 3,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Wilton International",
+      "locality": "Redcar",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 4RG"
+    }
+  },
+  {
+    "name": "Scott Bros Recycling Ltd. South Tees Recycle Centre",
+    "address": "Holden close, Bolkow Industrial Estate, Holden Cl, Middlesbrough TS6 7BN, UK",
+    "coordinates": {
+      "lat": 54.5794329,
+      "lng": -1.1580166
+    },
+    "place_id": "ChIJNx7_p3PufkgRQM1s2v_egaY",
+    "materials": [
+      "plastic",
+      "hazardous"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "01642 750666",
+    "website": "http://www.scottbros.com/contact-us/",
+    "rating": 3,
+    "opening_hours": [
+      "Monday: 7:30 AM – 5:30 PM",
+      "Tuesday: 7:30 AM – 5:30 PM",
+      "Wednesday: 7:30 AM – 5:30 PM",
+      "Thursday: 7:30 AM – 5:30 PM",
+      "Friday: 7:30 AM – 5:30 PM",
+      "Saturday: 7:30 AM – 1:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Holden Close",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 7BN"
+    }
+  },
+  {
+    "name": "Biffa Waste Management Polymers Redcar",
+    "address": "Wes Building Plastics Road, Wilton, Lazenby, Redcar TS10 4RG, UK",
+    "coordinates": {
+      "lat": 54.5863326,
+      "lng": -1.1185713
+    },
+    "place_id": "ChIJiz8F68jvfkgRKWXYFeG1HI0",
+    "materials": [
+      "general",
+      "metal",
+      "plastic",
+      "glass",
+      "automotive",
+      "paper",
+      "hazardous",
+      "organic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous",
+        "paint",
+        "oil"
+      ]
+    },
+    "phone": "0800 307307",
+    "website": "https://www.biffa.co.uk/waste-services-and-products/collection-management/small-businesses?utm_source=google+business+profile&utm_medium=organic&utm_campaign=Biffa+Polymers+Redcar",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:00 PM",
+      "Tuesday: 8:30 AM – 5:00 PM",
+      "Wednesday: 8:30 AM – 5:00 PM",
+      "Thursday: 8:30 AM – 5:00 PM",
+      "Friday: 8:30 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Wes Building Plastics Road",
+      "locality": "Wilton",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 4RG"
+    }
+  },
+  {
+    "name": "HKboots",
+    "address": "139 Carisbrooke Ave, Middlesbrough TS3 9LP, UK",
+    "coordinates": {
+      "lat": 54.5581513,
+      "lng": -1.1868361
+    },
+    "place_id": "ChIJQQI7WirtfkgRLvw6Bq4yr6s",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07510 857570",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "139",
+      "route": "Carisbrooke Avenue",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 9LP"
+    }
+  },
+  {
+    "name": "Jk Recycling",
+    "address": "416 Marton Rd, Middlesbrough TS4 2PT, UK",
+    "coordinates": {
+      "lat": 54.5582957,
+      "lng": -1.222721
+    },
+    "place_id": "ChIJc8tJKP7sfkgRmYuV-N6-7bg",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07342 966008",
+    "website": null,
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: 9:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "416",
+      "route": "Marton Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS4 2PT"
+    }
+  },
+  {
+    "name": "UK Wood Recycling Ltd",
+    "address": "Wilton Works, Trunk Rd, Middlesbrough TS6 8JH, UK",
+    "coordinates": {
+      "lat": 54.5829259,
+      "lng": -1.1340306
+    },
+    "place_id": "ChIJ6fvnLUTufkgRq6VyqiYSjXs",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 452044",
+    "website": null,
+    "rating": 4.1,
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Wilton Works",
+      "route": "Trunk Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 8JH"
+    }
+  },
+  {
+    "name": "RAPID RUBBISH REMOVAL",
+    "address": "14 Elm Dr, Marton-in-Cleveland, Middlesbrough TS7 8BN, UK",
+    "coordinates": {
+      "lat": 54.5336118,
+      "lng": -1.1987208
+    },
+    "place_id": "ChIJJTfOXGnsfkgR202bxz1V8sA",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07928 469098",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "14",
+      "route": "Elm Drive",
+      "locality": "Marton-in-Cleveland",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS7 8BN"
+    }
+  },
+  {
+    "name": "House Clearance Company",
+    "address": "51 Cotswold Dr, Redcar TS10 4AH, UK",
+    "coordinates": {
+      "lat": 54.60338729999999,
+      "lng": -1.0786785
+    },
+    "place_id": "ChIJnRxhUTblfkgRFZhG5UnrpRE",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET"
+      ]
+    },
+    "phone": "07401 552825",
+    "website": "http://www.northeasthouseclearance.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "51",
+      "route": "Cotswold Drive",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 4AH"
+    }
+  },
+  {
+    "name": "Greenbank Recycling Solutions",
+    "address": "Sotherby Rd, Middlesbrough TS3 8BT, UK",
+    "coordinates": {
+      "lat": 54.5710415,
+      "lng": -1.1966565
+    },
+    "place_id": "ChIJxaZqO7jtfkgRzbmtuM5KSOo",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 249924",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Sotherby Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8BT"
+    }
+  },
+  {
+    "name": "UK Wood Recycling Ltd",
+    "address": "Unnamed Road, Lazenby, Middlesbrough TS6 8JH, UK",
+    "coordinates": {
+      "lat": 54.5820652,
+      "lng": -1.120139
+    },
+    "place_id": "ChIJd6p4JFLvfkgRwHt4ZGI8x24",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Middlesbrough",
+      "locality": "Lazenby",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 8JH"
+    }
+  },
+  {
+    "name": "C L Prosser & Co Ltd",
+    "address": "Normanby Wharf, Dockside Rd, Middlesbrough TS3 8AT, UK",
+    "coordinates": {
+      "lat": 54.57852620000001,
+      "lng": -1.2000249
+    },
+    "place_id": "ChIJZZ1Vyr_tfkgRNYi9uWO5ZFc",
+    "materials": [
+      "metal",
+      "automotive",
+      "plastic",
+      "hazardous"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "01642 241166",
+    "website": "http://www.clprosser.co.uk/home.html",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 4:30 AM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Normanby Wharf",
+      "route": "Dockside Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8AT"
+    }
+  },
+  {
+    "name": "Middlesbrough Skips for Rent",
+    "address": "Marton Rd, Middlesbrough TS4 2HG, UK",
+    "coordinates": {
+      "lat": 54.5654577,
+      "lng": -1.2234098
+    },
+    "place_id": "ChIJV6TzRNTtfkgRLkQUtpcjqA0",
+    "materials": [
+      "metal",
+      "plastic",
+      "glass",
+      "batteries",
+      "hazardous"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal"
+      ],
+      "glass": [
+        "bottles"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "01642 030865",
+    "website": "https://www.graylargeskiphire.co.uk/middlesbrough-skips",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Marton Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS4 2HG"
+    }
+  },
+  {
+    "name": "Biffa Waste Management Middlesbrough",
+    "address": "Brunel Road, Skippers Lane Industrial Est, South Bank, Middlesbrough TS6 6JA, UK",
+    "coordinates": {
+      "lat": 54.57421530000001,
+      "lng": -1.1849522
+    },
+    "place_id": "ChIJQ-rcKMTtfkgRD7uGzLdHqU8",
+    "materials": [
+      "general",
+      "metal",
+      "plastic",
+      "glass",
+      "paper",
+      "hazardous",
+      "organic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous",
+        "paint",
+        "oil"
+      ]
+    },
+    "phone": "0800 307307",
+    "website": "https://www.biffa.co.uk/waste-services-and-products/collection-management/small-businesses?utm_source=google+business+profile&utm_medium=organic&utm_campaign=Biffa+Middlesbrough",
+    "rating": 2.6,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 8:30 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "South Bank",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 6JA"
+    }
+  },
+  {
+    "name": "Screwfix Redcar",
+    "address": "W Coatham Ln, Redcar TS10 5QD, UK",
+    "coordinates": {
+      "lat": 54.6066259,
+      "lng": -1.105309
+    },
+    "place_id": "ChIJoVcijinwfkgRkLNshJcj3nA",
+    "materials": [
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ]
+    },
+    "phone": "0333 011 2112",
+    "website": "https://www.screwfix.com/stores/OB7/Redcar?utm_source=google&utm_medium=organic&utm_campaign=Google_OB7",
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "West Coatham Lane",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 5QD"
+    }
+  },
+  {
+    "name": "1st Choice Waste Management Group",
+    "address": "1st Choice Waste Management Group, 7 Lorton Rd, Redcar TS10 4LY, UK",
+    "coordinates": {
+      "lat": 54.6012625,
+      "lng": -1.0676334
+    },
+    "place_id": "ChIJAdH5Pj7vfkgRAvFKPSjW3x8",
+    "materials": [
+      "general"
+    ],
+    "website_materials": {},
+    "phone": "01642 478734",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 AM",
+      "Thursday: Closed",
+      "Friday: 12:00 – 4:30 AM, 8:00 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "1st Choice Waste Management Group",
+      "street_number": "7",
+      "route": "Lorton Road",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 4LY"
+    }
+  }
+]

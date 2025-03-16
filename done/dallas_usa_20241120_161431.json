@@ -1,0 +1,879 @@
+[
+  {
+    "name": "Texas Recycling",
+    "address": "1420 Barry Ave, Dallas, TX 75223, USA",
+    "coordinates": {
+      "lat": 32.7877915,
+      "lng": -96.7497327
+    },
+    "place_id": "ChIJ6c3fZaCYToYRmKZW1WRYM0s",
+    "materials": [
+      "paper",
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "aluminum",
+        "steel",
+        "iron",
+        "scrap metal"
+      ],
+      "paper": [
+        "paper",
+        "cardboard",
+        "newspaper"
+      ]
+    },
+    "phone": "(214) 357-0262",
+    "website": "https://www.texasrecycling.com/?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 3.9,
+    "opening_hours": [
+      "Monday: 8:00 AM – 12:00 PM, 1:00 – 2:30 PM",
+      "Tuesday: 8:00 AM – 12:00 PM, 1:00 – 2:30 PM",
+      "Wednesday: 8:00 AM – 12:00 PM, 1:00 – 2:30 PM",
+      "Thursday: 8:00 AM – 12:00 PM, 1:00 – 2:30 PM",
+      "Friday: 8:00 AM – 12:00 PM, 1:00 – 2:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "1420",
+      "route": "Barry Avenue",
+      "neighborhood": "South Dallas",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75223"
+    }
+  },
+  {
+    "name": "CMC Recycling",
+    "address": "2215 S Good Latimer Expy, Dallas, TX 75226, USA",
+    "coordinates": {
+      "lat": 32.7723077,
+      "lng": -96.77960999999999
+    },
+    "place_id": "ChIJgY-Eze-YToYRn_oeNyKiCkc",
+    "materials": [
+      "automotive",
+      "hazardous",
+      "batteries",
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "aluminum",
+        "steel",
+        "copper",
+        "iron",
+        "scrap metal"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "automotive": [
+        "automotive"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "(214) 428-2861",
+    "website": "https://www.cmcrecycling.com/locations/texas/dallas-south",
+    "rating": 3.6,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "2215",
+      "route": "South Good Latimer Expressway",
+      "neighborhood": "Cedars",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75226",
+      "postal_code_suffix": "2221"
+    }
+  },
+  {
+    "name": "Okon Recycling",
+    "address": "5901 Botham Jean Blvd, Dallas, TX 75215, USA",
+    "coordinates": {
+      "lat": 32.7359433,
+      "lng": -96.7585245
+    },
+    "place_id": "ChIJXSe35G6YToYRp7OkljGpMg4",
+    "materials": [
+      "automotive",
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "aluminum",
+        "steel",
+        "copper",
+        "iron",
+        "scrap metal"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "(214) 426-6566",
+    "website": "https://www.okonrecycling.com/",
+    "rating": 4.7,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "5901",
+      "route": "Botham Jean Boulevard",
+      "neighborhood": "South Dallas",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75215"
+    }
+  },
+  {
+    "name": "Green Earth Metal Recycling, LLC",
+    "address": "4115 Botham Jean Blvd, Dallas, TX 75215, USA",
+    "coordinates": {
+      "lat": 32.7505005,
+      "lng": -96.76905599999999
+    },
+    "place_id": "ChIJM6HKxGeYToYRLlrBV5fDEQg",
+    "materials": [
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "aluminum",
+        "steel",
+        "copper",
+        "iron"
+      ]
+    },
+    "phone": "(214) 428-3702",
+    "website": "http://www.greenearthmetalrecycling.com/",
+    "rating": 4.2,
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "4115",
+      "route": "Botham Jean Boulevard",
+      "neighborhood": "South Dallas",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75215",
+      "postal_code_suffix": "4010"
+    }
+  },
+  {
+    "name": "Sunrise Metal Recycling Llc.",
+    "address": "4801 Botham Jean Blvd, Dallas, TX 75215, USA",
+    "coordinates": {
+      "lat": 32.7465057,
+      "lng": -96.7634583
+    },
+    "place_id": "ChIJ_Q4KpW6YToYR9LHy9swYkFU",
+    "materials": [
+      "metal"
+    ],
+    "website_materials": {},
+    "phone": "(214) 428-4681",
+    "website": null,
+    "rating": 4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 3:30 PM",
+      "Sunday: 8:00 AM – 3:30 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "4801",
+      "route": "Botham Jean Boulevard",
+      "neighborhood": "South Dallas",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75215"
+    }
+  },
+  {
+    "name": "Action Metals Recyclers",
+    "address": "3514 Botham Jean Blvd, Dallas, TX 75215, USA",
+    "coordinates": {
+      "lat": 32.7552128,
+      "lng": -96.7772354
+    },
+    "place_id": "ChIJt3AsX1mYToYRq_Ho3Uddm24",
+    "materials": [
+      "plastic",
+      "metal",
+      "batteries"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "aluminum",
+        "steel",
+        "copper",
+        "iron",
+        "scrap metal"
+      ],
+      "batteries": [
+        "batteries"
+      ]
+    },
+    "phone": "(214) 421-9981",
+    "website": "https://www.actionmetalsrecyclers.com/",
+    "rating": 4.1,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 4:30 PM",
+      "Sunday: 8:00 AM – 12:30 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "3514",
+      "route": "Botham Jean Boulevard",
+      "neighborhood": "Cedar Crest",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75215"
+    }
+  },
+  {
+    "name": "EMR DALLAS (GOLD METAL RECYCLERS)",
+    "address": "4305 Botham Jean Blvd, Dallas, TX 75215, USA",
+    "coordinates": {
+      "lat": 32.749211,
+      "lng": -96.7668156
+    },
+    "place_id": "ChIJxbEG8GiYToYRXRpkrHfSTqY",
+    "materials": [
+      "automotive",
+      "hazardous",
+      "batteries",
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "aluminum",
+        "steel",
+        "copper",
+        "iron",
+        "scrap metal"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "(214) 421-0247",
+    "website": "https://us.emrlocal.com/yards/emr-dallas-scrap-metal",
+    "rating": 4.2,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "4305",
+      "route": "Botham Jean Boulevard",
+      "neighborhood": "South Dallas",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75215",
+      "postal_code_suffix": "4108"
+    }
+  },
+  {
+    "name": "Recycle NOW",
+    "address": "Dallas, TX 75204, USA",
+    "coordinates": {
+      "lat": 32.80921319999999,
+      "lng": -96.79580290000001
+    },
+    "place_id": "ChIJwYBsWM6YToYRknxdLpQqkHc",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": "(469) 209-5430",
+    "website": "http://www.recyclenowtexas.com/",
+    "rating": 3.9,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM, 8:00 – 11:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM, 8:00 – 11:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM, 8:00 – 11:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM, 8:00 – 11:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 – 11:00 PM",
+      "Sunday: 8:00 – 11:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Dallas",
+      "neighborhood": "Cityplace",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75204"
+    }
+  },
+  {
+    "name": "Gamtex Industries",
+    "address": "2209 S Riverfront Blvd, Dallas, TX 75207, USA",
+    "coordinates": {
+      "lat": 32.7588835,
+      "lng": -96.79288299999999
+    },
+    "place_id": "ChIJ4wJyn6qZToYREXokWc5qMzw",
+    "materials": [
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron"
+      ]
+    },
+    "phone": "(214) 421-0391",
+    "website": "http://gachman.com/",
+    "rating": 4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 12:00 PM, 12:45 – 4:15 PM",
+      "Tuesday: 8:00 AM – 12:00 PM, 12:45 – 3:15 PM",
+      "Wednesday: 8:00 AM – 12:00 PM, 12:45 – 3:15 PM",
+      "Thursday: 8:00 AM – 12:00 PM, 12:45 – 3:15 PM",
+      "Friday: 8:00 AM – 12:00 PM, 12:45 – 3:15 PM",
+      "Saturday: 8:00 – 11:45 AM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "2209",
+      "route": "South Riverfront Boulevard",
+      "neighborhood": "Cedars",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75207",
+      "postal_code_suffix": "5003"
+    }
+  },
+  {
+    "name": "K N Metals Recycling",
+    "address": "Botham Jean Blvd, Dallas, TX 75215, USA",
+    "coordinates": {
+      "lat": 32.735955,
+      "lng": -96.758433
+    },
+    "place_id": "ChIJt1bQpQ2YToYRic5JyvSBQ2k",
+    "materials": [
+      "automotive",
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "aluminum",
+        "steel",
+        "copper",
+        "iron",
+        "scrap metal"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": null,
+    "website": "https://www.okonmetals.com/",
+    "rating": 2,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Botham Jean Boulevard",
+      "neighborhood": "South Dallas",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75215",
+      "postal_code_suffix": "5106"
+    }
+  },
+  {
+    "name": "DAR PRO Solutions",
+    "address": "1240 Sargent Rd, Dallas, TX 75216, USA",
+    "coordinates": {
+      "lat": 32.7383459,
+      "lng": -96.78045759999999
+    },
+    "place_id": "ChIJsb2--lmZToYRUsRLv3rYmTY",
+    "materials": [
+      "plastic",
+      "metal",
+      "hazardous"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "(855) 327-7761",
+    "website": "https://www.darlingii.com/en/darpro/used-cooking-oil-collection-services",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "1240",
+      "route": "Sargent Road",
+      "neighborhood": "Cedar Crest",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75216",
+      "postal_code_suffix": "4653"
+    }
+  },
+  {
+    "name": "ecoATM",
+    "address": "2305 N Central Expy, Dallas, TX 75204, USA",
+    "coordinates": {
+      "lat": 32.8009707,
+      "lng": -96.7940497
+    },
+    "place_id": "ChIJxQCtRyqZToYRbIaZp-KO-rs",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": "(858) 255-4111",
+    "website": "https://locations.ecoatm.com/tx/dallas/sell-my-phone-dallas-tx-6647.html",
+    "rating": 3.5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "2305",
+      "route": "North Central Expressway",
+      "neighborhood": "Oak Lawn",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75204",
+      "postal_code_suffix": "3800"
+    }
+  },
+  {
+    "name": "Forerunner Recycling (Not a drop off)",
+    "address": "3102 Maple Ave, Dallas, TX 75201, USA",
+    "coordinates": {
+      "lat": 32.799176,
+      "lng": -96.80782560000002
+    },
+    "place_id": "ChIJA_gl-jOZToYRu4KCsQS3KMk",
+    "materials": [],
+    "website_materials": {},
+    "phone": "(972) 584-9195",
+    "website": null,
+    "rating": 2.3,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "3102",
+      "route": "Maple Avenue",
+      "neighborhood": "Oak Lawn",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75201"
+    }
+  },
+  {
+    "name": "Gold Auto Parts Recyclers",
+    "address": "3301 Botham Jean Blvd, Dallas, TX 75215, USA",
+    "coordinates": {
+      "lat": 32.7559761,
+      "lng": -96.7791278
+    },
+    "place_id": "ChIJXYCZelmYToYRiahklKVxG5E",
+    "materials": [
+      "automotive",
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal"
+      ],
+      "automotive": [
+        "automotive"
+      ]
+    },
+    "phone": "(214) 941-1531",
+    "website": "http://www.gaprecycling.com/",
+    "rating": 2.9,
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:00 PM",
+      "Tuesday: 7:30 AM – 4:00 PM",
+      "Wednesday: 7:30 AM – 4:00 PM",
+      "Thursday: 7:30 AM – 4:00 PM",
+      "Friday: 7:30 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "3301",
+      "route": "Botham Jean Boulevard",
+      "neighborhood": "Cedar Crest",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75215"
+    }
+  },
+  {
+    "name": "All Green Electronics Recycling & Data Destruction",
+    "address": "2911 Turtle Creek Blvd # 300, Dallas, TX 75219, USA",
+    "coordinates": {
+      "lat": 32.8043024,
+      "lng": -96.80607099999999
+    },
+    "place_id": "ChIJzd6408yeToYRu4mPN135ktg",
+    "materials": [
+      "paper",
+      "electronics",
+      "batteries",
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "cardboard"
+      ],
+      "electronics": [
+        "electronics",
+        "e-waste",
+        "computers",
+        "phones"
+      ],
+      "batteries": [
+        "battery"
+      ]
+    },
+    "phone": "(214) 888-6955",
+    "website": "https://www.allgreenrecycling.com/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 AM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 AM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "# 300",
+      "street_number": "2911",
+      "route": "Turtle Creek Boulevard",
+      "neighborhood": "Oak Lawn",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75219"
+    }
+  },
+  {
+    "name": "WasteFree",
+    "address": "5740 Prospect Ave Suite 1100, Dallas, TX 75206, USA",
+    "coordinates": {
+      "lat": 32.8145638,
+      "lng": -96.76827449999999
+    },
+    "place_id": "ChIJy_CxCCWbToYRpzOwOILzfWQ",
+    "materials": [
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": null,
+    "website": "https://wastefree.com/",
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Suite 1100",
+      "street_number": "5740",
+      "route": "Prospect Avenue",
+      "neighborhood": "Lower Greenville",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75206"
+    }
+  },
+  {
+    "name": "Sunbelt Disposal and Recycling",
+    "address": "2551 S Good Latimer Expy, Dallas, TX 75215, USA",
+    "coordinates": {
+      "lat": 32.7689431,
+      "lng": -96.7764918
+    },
+    "place_id": "ChIJfw5AiheZToYRvl13gMB71CY",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PS"
+      ]
+    },
+    "phone": "(214) 217-0335",
+    "website": "http://www.sunbeltdisposal.com/",
+    "rating": 3.7,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "2551",
+      "route": "South Good Latimer Expressway",
+      "neighborhood": "South Dallas",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75215"
+    }
+  },
+  {
+    "name": "Dallas Electronic Recycling",
+    "address": "325 North St. Paul Street Suite 3100, Dallas, TX 75201, USA",
+    "coordinates": {
+      "lat": 32.783334,
+      "lng": -96.7973576
+    },
+    "place_id": "ChIJeZ8zy7OZToYRbSlbMqlIxfY",
+    "materials": [
+      "electronics"
+    ],
+    "website_materials": {},
+    "phone": "(214) 550-7225",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Suite 3100",
+      "street_number": "325",
+      "route": "North Saint Paul Street",
+      "neighborhood": "Dallas Downtown Historic District",
+      "locality": "Dallas",
+      "administrative_area_level_2": "Dallas County",
+      "administrative_area_level_1": "Texas",
+      "country": "United States",
+      "postal_code": "75201"
+    }
+  }
+]

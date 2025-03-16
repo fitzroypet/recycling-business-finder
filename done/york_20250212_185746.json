@@ -1,0 +1,5006 @@
+[
+  {
+    "name": "Signif Recycling",
+    "address": "Middlesbrough TS3 8BT, UK",
+    "coordinates": {
+      "lat": 54.57030349999999,
+      "lng": -1.1990488
+    },
+    "place_id": "ChIJL7GDg2vtfkgRtb3sM2NLVNI",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07462 005205",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 4:00 AM",
+      "Tuesday: 9:00 AM – 4:00 AM",
+      "Wednesday: 9:00 AM – 4:00 AM",
+      "Thursday: 9:00 AM – 4:00 AM",
+      "Friday: 9:00 AM – 4:00 AM",
+      "Saturday: 9:00 AM – 4:00 AM",
+      "Sunday: 9:00 AM – 4:00 AM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Middlesbrough",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8BT"
+    }
+  },
+  {
+    "name": "ML waste recycling",
+    "address": "5 Ellerby Rd, Middlesbrough TS6 8AT, UK",
+    "coordinates": {
+      "lat": 54.56701109999999,
+      "lng": -1.1361811
+    },
+    "place_id": "ChIJ_4t9rJ3vfkgRh-Lz89JypFI",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07517 729021",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "5",
+      "route": "Ellerby Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 8AT"
+    }
+  },
+  {
+    "name": "Palm Recycling",
+    "address": "Pearsons Yard, Puddlers Rd, Middlesbrough TS6 6TX, UK",
+    "coordinates": {
+      "lat": 54.5825347,
+      "lng": -1.1727699
+    },
+    "place_id": "ChIJVfjWreDtfkgRP_qINIgvy_g",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 456274",
+    "website": null,
+    "rating": 4,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Pearsons Yard",
+      "route": "Puddlers Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 6TX"
+    }
+  },
+  {
+    "name": "J&B Recycling (South Tees)",
+    "address": "Normanby Wharf, Middlesbrough TS3 8AT, UK",
+    "coordinates": {
+      "lat": 54.5797079,
+      "lng": -1.1966806
+    },
+    "place_id": "ChIJ0YHkS7btfkgR9i75ANg5WSY",
+    "materials": [
+      "organic",
+      "hazardous",
+      "glass",
+      "plastic",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "organic": [
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "01642 232215",
+    "website": "https://www.jbrecycling.co.uk/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:30 PM",
+      "Tuesday: 7:00 AM – 4:30 PM",
+      "Wednesday: 7:00 AM – 4:30 PM",
+      "Thursday: 7:00 AM – 4:30 PM",
+      "Friday: 7:00 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Normanby Wharf",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8AT"
+    }
+  },
+  {
+    "name": "Recycling IT",
+    "address": "Tees Court, Wallis Rd, Skippers Lane Industrial Estate, Middlesbrough TS6 6JB, UK",
+    "coordinates": {
+      "lat": 54.5717904,
+      "lng": -1.1843371
+    },
+    "place_id": "ChIJod7MksXtfkgROxRaqt_BiAE",
+    "materials": [
+      "organic",
+      "glass",
+      "plastic",
+      "electronics",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "electronics": [
+        "e-waste",
+        "computers",
+        "electronic waste"
+      ],
+      "organic": [
+        "food waste"
+      ]
+    },
+    "phone": "01642 455466",
+    "website": "http://www.recycling-it.co.uk/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 3:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Tees Court",
+      "route": "Wallis Road",
+      "locality": "Skippers Lane Industrial Estate",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 6JB"
+    }
+  },
+  {
+    "name": "SUEZ recycling and recovery UK",
+    "address": "Wilton International, Redcar, Lazenby, Middlesbrough TS10 4RG, UK",
+    "coordinates": {
+      "lat": 54.5873291,
+      "lng": -1.1301645
+    },
+    "place_id": "ChIJM2ZpekTvfkgRH-W6iZ4q0nA",
+    "materials": [
+      "organic",
+      "hazardous",
+      "glass",
+      "plastic",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": null,
+    "website": "https://bit.ly/GBP_SUEZ_North",
+    "rating": 3,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Wilton International",
+      "locality": "Redcar",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 4RG"
+    }
+  },
+  {
+    "name": "Scott Bros Recycling Ltd. South Tees Recycle Centre",
+    "address": "Holden close, Bolkow Industrial Estate, Holden Cl, Middlesbrough TS6 7BN, UK",
+    "coordinates": {
+      "lat": 54.5794329,
+      "lng": -1.1580166
+    },
+    "place_id": "ChIJNx7_p3PufkgRQM1s2v_egaY",
+    "materials": [
+      "hazardous",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "01642 750666",
+    "website": "http://www.scottbros.com/contact-us/",
+    "rating": 3,
+    "opening_hours": [
+      "Monday: 7:30 AM – 5:30 PM",
+      "Tuesday: 7:30 AM – 5:30 PM",
+      "Wednesday: 7:30 AM – 5:30 PM",
+      "Thursday: 7:30 AM – 5:30 PM",
+      "Friday: 7:30 AM – 5:30 PM",
+      "Saturday: 7:30 AM – 1:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Holden Close",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 7BN"
+    }
+  },
+  {
+    "name": "Biffa Waste Management Polymers Redcar",
+    "address": "Wes Building Plastics Road, Wilton, Lazenby, Redcar TS10 4RG, UK",
+    "coordinates": {
+      "lat": 54.5863326,
+      "lng": -1.1185713
+    },
+    "place_id": "ChIJiz8F68jvfkgRKWXYFeG1HI0",
+    "materials": [
+      "organic",
+      "hazardous",
+      "general",
+      "plastic",
+      "glass",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous",
+        "paint",
+        "oil"
+      ]
+    },
+    "phone": "0800 307307",
+    "website": "https://www.biffa.co.uk/waste-services-and-products/collection-management/small-businesses?utm_source=google+business+profile&utm_medium=organic&utm_campaign=Biffa+Polymers+Redcar",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:00 PM",
+      "Tuesday: 8:30 AM – 5:00 PM",
+      "Wednesday: 8:30 AM – 5:00 PM",
+      "Thursday: 8:30 AM – 5:00 PM",
+      "Friday: 8:30 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Wes Building Plastics Road",
+      "locality": "Wilton",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 4RG"
+    }
+  },
+  {
+    "name": "HKboots",
+    "address": "139 Carisbrooke Ave, Middlesbrough TS3 9LP, UK",
+    "coordinates": {
+      "lat": 54.5581513,
+      "lng": -1.1868361
+    },
+    "place_id": "ChIJQQI7WirtfkgRLvw6Bq4yr6s",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07510 857570",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "139",
+      "route": "Carisbrooke Avenue",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 9LP"
+    }
+  },
+  {
+    "name": "Jk Recycling",
+    "address": "416 Marton Rd, Middlesbrough TS4 2PT, UK",
+    "coordinates": {
+      "lat": 54.5582957,
+      "lng": -1.222721
+    },
+    "place_id": "ChIJc8tJKP7sfkgRmYuV-N6-7bg",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07342 966008",
+    "website": null,
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: 9:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "416",
+      "route": "Marton Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS4 2PT"
+    }
+  },
+  {
+    "name": "UK Wood Recycling Ltd",
+    "address": "Wilton Works, Trunk Rd, Middlesbrough TS6 8JH, UK",
+    "coordinates": {
+      "lat": 54.5829259,
+      "lng": -1.1340306
+    },
+    "place_id": "ChIJ6fvnLUTufkgRq6VyqiYSjXs",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 452044",
+    "website": null,
+    "rating": 4.1,
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Wilton Works",
+      "route": "Trunk Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 8JH"
+    }
+  },
+  {
+    "name": "RAPID RUBBISH REMOVAL",
+    "address": "14 Elm Dr, Marton-in-Cleveland, Middlesbrough TS7 8BN, UK",
+    "coordinates": {
+      "lat": 54.5336118,
+      "lng": -1.1987208
+    },
+    "place_id": "ChIJJTfOXGnsfkgR202bxz1V8sA",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07928 469098",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "14",
+      "route": "Elm Drive",
+      "locality": "Marton-in-Cleveland",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS7 8BN"
+    }
+  },
+  {
+    "name": "House Clearance Company",
+    "address": "51 Cotswold Dr, Redcar TS10 4AH, UK",
+    "coordinates": {
+      "lat": 54.60338729999999,
+      "lng": -1.0786785
+    },
+    "place_id": "ChIJnRxhUTblfkgRFZhG5UnrpRE",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET"
+      ]
+    },
+    "phone": "07401 552825",
+    "website": "http://www.northeasthouseclearance.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "51",
+      "route": "Cotswold Drive",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 4AH"
+    }
+  },
+  {
+    "name": "Greenbank Recycling Solutions",
+    "address": "Sotherby Rd, Middlesbrough TS3 8BT, UK",
+    "coordinates": {
+      "lat": 54.5710415,
+      "lng": -1.1966565
+    },
+    "place_id": "ChIJxaZqO7jtfkgRzbmtuM5KSOo",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 249924",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Sotherby Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8BT"
+    }
+  },
+  {
+    "name": "UK Wood Recycling Ltd",
+    "address": "Unnamed Road, Lazenby, Middlesbrough TS6 8JH, UK",
+    "coordinates": {
+      "lat": 54.5820652,
+      "lng": -1.120139
+    },
+    "place_id": "ChIJd6p4JFLvfkgRwHt4ZGI8x24",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Middlesbrough",
+      "locality": "Lazenby",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 8JH"
+    }
+  },
+  {
+    "name": "C L Prosser & Co Ltd",
+    "address": "Normanby Wharf, Dockside Rd, Middlesbrough TS3 8AT, UK",
+    "coordinates": {
+      "lat": 54.57852620000001,
+      "lng": -1.2000249
+    },
+    "place_id": "ChIJZZ1Vyr_tfkgRNYi9uWO5ZFc",
+    "materials": [
+      "metal",
+      "hazardous",
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "01642 241166",
+    "website": "http://www.clprosser.co.uk/home.html",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 4:30 AM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Normanby Wharf",
+      "route": "Dockside Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8AT"
+    }
+  },
+  {
+    "name": "Middlesbrough Skips for Rent",
+    "address": "Marton Rd, Middlesbrough TS4 2HG, UK",
+    "coordinates": {
+      "lat": 54.5654577,
+      "lng": -1.2234098
+    },
+    "place_id": "ChIJV6TzRNTtfkgRLkQUtpcjqA0",
+    "materials": [
+      "batteries",
+      "hazardous",
+      "glass",
+      "plastic",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal"
+      ],
+      "glass": [
+        "bottles"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "01642 030865",
+    "website": "https://www.graylargeskiphire.co.uk/middlesbrough-skips",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Marton Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS4 2HG"
+    }
+  },
+  {
+    "name": "Biffa Waste Management Middlesbrough",
+    "address": "Brunel Road, Skippers Lane Industrial Est, South Bank, Middlesbrough TS6 6JA, UK",
+    "coordinates": {
+      "lat": 54.57421530000001,
+      "lng": -1.1849522
+    },
+    "place_id": "ChIJQ-rcKMTtfkgRD7uGzLdHqU8",
+    "materials": [
+      "organic",
+      "hazardous",
+      "glass",
+      "plastic",
+      "general",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous",
+        "paint",
+        "oil"
+      ]
+    },
+    "phone": "0800 307307",
+    "website": "https://www.biffa.co.uk/waste-services-and-products/collection-management/small-businesses?utm_source=google+business+profile&utm_medium=organic&utm_campaign=Biffa+Middlesbrough",
+    "rating": 2.6,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 8:30 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "South Bank",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 6JA"
+    }
+  },
+  {
+    "name": "Screwfix Redcar",
+    "address": "W Coatham Ln, Redcar TS10 5QD, UK",
+    "coordinates": {
+      "lat": 54.6066259,
+      "lng": -1.105309
+    },
+    "place_id": "ChIJoVcijinwfkgRkLNshJcj3nA",
+    "materials": [
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ]
+    },
+    "phone": "0333 011 2112",
+    "website": "https://www.screwfix.com/stores/OB7/Redcar?utm_source=google&utm_medium=organic&utm_campaign=Google_OB7",
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "West Coatham Lane",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 5QD"
+    }
+  },
+  {
+    "name": "1st Choice Waste Management Group",
+    "address": "1st Choice Waste Management Group, 7 Lorton Rd, Redcar TS10 4LY, UK",
+    "coordinates": {
+      "lat": 54.6012625,
+      "lng": -1.0676334
+    },
+    "place_id": "ChIJAdH5Pj7vfkgRAvFKPSjW3x8",
+    "materials": [
+      "general"
+    ],
+    "website_materials": {},
+    "phone": "01642 478734",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 AM",
+      "Thursday: Closed",
+      "Friday: 12:00 – 4:30 AM, 8:00 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "1st Choice Waste Management Group",
+      "street_number": "7",
+      "route": "Lorton Road",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 4LY"
+    }
+  },
+  {
+    "name": "Harrogate Household Waste Recycling Centre",
+    "address": "Wetherby Rd, Harrogate HG3 1DE, UK",
+    "coordinates": {
+      "lat": 53.9865732,
+      "lng": -1.4972628
+    },
+    "place_id": "ChIJcUJ5StRTeUgRvxl3tI6axlU",
+    "materials": [
+      "organic",
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "organic": [
+        "compost"
+      ]
+    },
+    "phone": null,
+    "website": "https://www.northyorks.gov.uk/bins-recycling-and-waste/household-waste-recycling-centres/find-your-local-household-waste-recycling-centre/harrogate-household-waste-recycling-centre",
+    "rating": 4.2,
+    "opening_hours": [
+      "Monday: 8:30 AM – 4:00 PM",
+      "Tuesday: 8:30 AM – 4:00 PM",
+      "Wednesday: Closed",
+      "Thursday: 8:30 AM – 4:00 PM",
+      "Friday: 8:30 AM – 4:00 PM",
+      "Saturday: 8:30 AM – 4:00 PM",
+      "Sunday: 8:30 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Wetherby Road",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG3 1DE"
+    }
+  },
+  {
+    "name": "West Harrogate Household Waste Recycling Centre",
+    "address": "Penny Pot Ln, Harrogate HG3 2SN, UK",
+    "coordinates": {
+      "lat": 53.9980524,
+      "lng": -1.615198
+    },
+    "place_id": "ChIJ-0-KqdJVeUgRXgUcxJDzGw8",
+    "materials": [
+      "organic",
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "organic": [
+        "compost"
+      ]
+    },
+    "phone": null,
+    "website": "http://www.northyorks.gov.uk/westharrogatehwrc",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 8:30 AM – 4:00 PM",
+      "Tuesday: 8:30 AM – 4:00 PM",
+      "Wednesday: Closed",
+      "Thursday: 8:30 AM – 4:00 PM",
+      "Friday: 8:30 AM – 4:00 PM",
+      "Saturday: 8:30 AM – 4:00 PM",
+      "Sunday: 8:30 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Penny Pot Lane",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG3 2SN"
+    }
+  },
+  {
+    "name": "Waste Away",
+    "address": "3 Prospect Cl, Harrogate HG2 7PR, UK",
+    "coordinates": {
+      "lat": 53.9957638,
+      "lng": -1.4996983
+    },
+    "place_id": "ChIJ68lAzwVTeUgR3pEYpal7Qlo",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07566 758514",
+    "website": "https://www.facebook.com/wasteaway1401",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "3",
+      "route": "Prospect Close",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG2 7PR"
+    }
+  },
+  {
+    "name": "KGZ SCRAP Car/van Harrogate",
+    "address": "54 Albany Rd, Harrogate HG1 4NS, UK",
+    "coordinates": {
+      "lat": 54.004896,
+      "lng": -1.53218
+    },
+    "place_id": "ChIJJxruszve2WcRxwFPVuVHHcI",
+    "materials": [
+      "metal",
+      "electronics",
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ],
+      "electronics": [
+        "electronics"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "07739 079882",
+    "website": "http://www.kgzwaste.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "54",
+      "route": "Albany Road",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 4NS"
+    }
+  },
+  {
+    "name": "Clothes and Glass Recycling",
+    "address": "XFX8+22, Harrogate HG1 5DS, UK",
+    "coordinates": {
+      "lat": 53.9975622,
+      "lng": -1.5349451
+    },
+    "place_id": "ChIJn_Y_JwBTeUgRlSG0QfS2Zxs",
+    "materials": [
+      "textile",
+      "automotive",
+      "glass",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": null,
+    "website": "https://www.yorkshireairambulance.org.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "XFX8+22",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 5DS"
+    }
+  },
+  {
+    "name": "Recycle It",
+    "address": "A3, Hornbeam Square west, Hornbeam Park, Harrogate HG2 8PA, UK",
+    "coordinates": {
+      "lat": 53.9797464,
+      "lng": -1.5207029
+    },
+    "place_id": "ChIJ__8_4HpReUgR8C8MiEJL2c0",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01423 878520",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "A3",
+      "premise": "Hornbeam Park",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG2 8PA"
+    }
+  },
+  {
+    "name": "JUNKERZ",
+    "address": "Unit 2, The Quarry, Ripley Rd, Knaresborough HG5 9HJ, UK",
+    "coordinates": {
+      "lat": 54.0250216,
+      "lng": -1.5177162
+    },
+    "place_id": "ChIJafi-6mVTeUgRLPgD28jO9fI",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01423 521370",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 10:00 PM",
+      "Saturday: 6:00 AM – 10:00 PM",
+      "Sunday: 6:00 AM – 10:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Unit 2",
+      "premise": "The Quarry",
+      "route": "Ripley Road",
+      "postal_town": "Knaresborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG5 9HJ"
+    }
+  },
+  {
+    "name": "Apex Recycling Solutions Ltd",
+    "address": "12 Station Parade, Harrogate HG1 1UE, UK",
+    "coordinates": {
+      "lat": 53.99523019999999,
+      "lng": -1.5385049
+    },
+    "place_id": "ChIJu_uTPQGhoyURL9TPmJRjn_Y",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP"
+      ]
+    },
+    "phone": "07585 786523",
+    "website": "https://find-and-update.company-information.service.gov.uk/company/14773309",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "12",
+      "route": "Station Parade",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 1UE"
+    }
+  },
+  {
+    "name": "Kgz House clearance",
+    "address": "54 Albany Rd, Harrogate HG1 4NS, UK",
+    "coordinates": {
+      "lat": 54.004896,
+      "lng": -1.53218
+    },
+    "place_id": "ChIJdbnBVUlTeUgREovL3mny-QQ",
+    "materials": [
+      "metal",
+      "automotive",
+      "electronics",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ],
+      "electronics": [
+        "electronics"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "07928 914432",
+    "website": "https://kgzwaste.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 12:00 – 6:00 AM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "54",
+      "route": "Albany Road",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 4NS"
+    }
+  },
+  {
+    "name": "K .GZ Waste removals",
+    "address": "59 Bachelor Gardens, Harrogate HG1 3EA, UK",
+    "coordinates": {
+      "lat": 54.0120988,
+      "lng": -1.537918
+    },
+    "place_id": "ChIJC5eYeZVTeUgRmTDci5875W8",
+    "materials": [
+      "metal",
+      "automotive",
+      "electronics",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ],
+      "electronics": [
+        "electronics"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": null,
+    "website": "https://kgzwaste.co.uk/",
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "59",
+      "route": "Bachelor Gardens",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 3EA"
+    }
+  },
+  {
+    "name": "Bright Secure Recycling",
+    "address": "Industrial Estate, Unit 4 Hambleton Grove, Knaresborough HG5 0DB, UK",
+    "coordinates": {
+      "lat": 54.011992,
+      "lng": -1.4617471
+    },
+    "place_id": "ChIJiXAzb9ZTeUgRzCpUNGKUpC4",
+    "materials": [
+      "textile",
+      "plastic",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "textile": [
+        "textile"
+      ]
+    },
+    "phone": "01423 815002",
+    "website": "https://www.brightsecurerecycling.com/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 PM",
+      "Thursday: 8:00 AM – 4:30 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Industrial Estate",
+      "street_number": "Unit 4",
+      "route": "Hambleton Grove",
+      "postal_town": "Knaresborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG5 0DB"
+    }
+  },
+  {
+    "name": "Addymans recycling & waste management",
+    "address": "The Quarry, Ripley Rd, Knaresborough HG5 9HJ, UK",
+    "coordinates": {
+      "lat": 54.0250154,
+      "lng": -1.5176542
+    },
+    "place_id": "ChIJL1rWGKxTeUgRj7U1K8Wtu-M",
+    "materials": [
+      "general",
+      "plastic",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ],
+      "paper": [
+        "cardboard"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "01423 868777",
+    "website": "https://addymansrecycling.co.uk/",
+    "rating": 4.7,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "The Quarry",
+      "route": "Ripley Road",
+      "postal_town": "Knaresborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG5 9HJ"
+    }
+  },
+  {
+    "name": "Clearpoint Recycling LTD",
+    "address": "12 Haywra St, Harrogate HG1 5BJ, UK",
+    "coordinates": {
+      "lat": 53.9949611,
+      "lng": -1.5363718
+    },
+    "place_id": "ChIJidBUH0tReUgRsuupMhSAKsg",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01423 855978",
+    "website": "https://www.clearpointrecycling.co.uk/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "12",
+      "route": "Haywra Street",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 5BJ"
+    }
+  },
+  {
+    "name": "Screwfix Harrogate",
+    "address": "Unit 1, Carder International Ltd, Ripon Way, Harrogate HG1 2AU, UK",
+    "coordinates": {
+      "lat": 54.00390909999999,
+      "lng": -1.5504257
+    },
+    "place_id": "ChIJ8cBEAfJTeUgRNoCiKnaeEFQ",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ]
+    },
+    "phone": "0333 011 2112",
+    "website": "https://www.screwfix.com/stores/EA6/Harrogate?utm_source=google&utm_medium=organic&utm_campaign=Google_EA6",
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Unit 1",
+      "point_of_interest": "Carder International Ltd",
+      "premise": "Ripon Way",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 2AU"
+    }
+  },
+  {
+    "name": "Toolstation Harrogate",
+    "address": "Unit 1, Hydro Retail Park, Ripon Rd, Harrogate HG1 2BS, UK",
+    "coordinates": {
+      "lat": 54.0057881,
+      "lng": -1.5488445
+    },
+    "place_id": "ChIJG54QlO1TeUgRhV5DKRYVpek",
+    "materials": [
+      "metal",
+      "hazardous",
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "automotive": [
+        "automotive"
+      ],
+      "hazardous": [
+        "paint"
+      ]
+    },
+    "phone": "0330 333 3303",
+    "website": "https://www.toolstation.com/?utm_source=google&utm_medium=local&utm_campaign=H9&y_source=1_NTU1ODg3MjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Unit 1",
+      "premise": "Hydro Retail Park",
+      "route": "Ripon Road",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 2BS"
+    }
+  },
+  {
+    "name": "Harrogate Waste",
+    "address": "110 Station Parade, Harrogate HG1 1EP, UK",
+    "coordinates": {
+      "lat": 53.9885864,
+      "lng": -1.536015
+    },
+    "place_id": "ChIJAQAMCOBTeUgRbF8ukIHRTJo",
+    "materials": [
+      "organic",
+      "glass",
+      "plastic",
+      "paper"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PS"
+      ],
+      "paper": [
+        "cardboard"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "organic": [
+        "food waste"
+      ]
+    },
+    "phone": "01423 275179",
+    "website": "https://harrogatewaste.co.uk/contact-us/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "110",
+      "route": "Station Parade",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 1EP"
+    }
+  },
+  {
+    "name": "North Yorkshire Council Claro Road Depot",
+    "address": "Harrogate HG1 4AT, UK",
+    "coordinates": {
+      "lat": 54.0027699,
+      "lng": -1.523963
+    },
+    "place_id": "ChIJ3QRzNABTeUgRiQuWc_KzsyI",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 4.7,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG1 4AT"
+    }
+  },
+  {
+    "name": "Harrogate Mini Skip for Rent",
+    "address": "Knaresborough Rd, Harrogate HG2 7SP, UK",
+    "coordinates": {
+      "lat": 53.9957224,
+      "lng": -1.5165338
+    },
+    "place_id": "ChIJWVCNPcpTeUgR2kc4HrQCW6E",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01423 226818",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Knaresborough Road",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG2 7SP"
+    }
+  },
+  {
+    "name": "Hg Clearance",
+    "address": "8 Wharfedale Ave, Harrogate HG2 0AU, UK",
+    "coordinates": {
+      "lat": 53.9808653,
+      "lng": -1.5596117
+    },
+    "place_id": "ChIJz4QWbVNReUgRDPB7U7CoFk0",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": null,
+    "website": "http://www.hgclearanceltd.com/",
+    "rating": 5,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "8",
+      "route": "Wharfedale Avenue",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG2 0AU"
+    }
+  },
+  {
+    "name": "Hartley's House clearance",
+    "address": "90 Eleanor Rd, Harrogate HG2 7AL, UK",
+    "coordinates": {
+      "lat": 53.9899879,
+      "lng": -1.498931
+    },
+    "place_id": "ChIJn1YOSShSeUgRZOZxwyQZWoo",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01423 886696",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "90",
+      "route": "Eleanor Road",
+      "postal_town": "Harrogate",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "HG2 7AL"
+    }
+  },
+  {
+    "name": "Household Waste Recycling Centre",
+    "address": "Stockton-on-Tees, Billingham TS18 1JP, UK",
+    "coordinates": {
+      "lat": 54.5616168,
+      "lng": -1.321798
+    },
+    "place_id": "ChIJ2_BPJsaTfkgRPQKF4acgK3A",
+    "materials": [
+      "batteries",
+      "textile",
+      "hazardous",
+      "glass",
+      "plastic",
+      "automotive",
+      "electronics",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "electronics": [
+        "computers",
+        "phones"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "textile": [
+        "textile",
+        "clothes"
+      ],
+      "hazardous": [
+        "paint"
+      ]
+    },
+    "phone": null,
+    "website": "https://stockton.gov.uk/haverton-hill",
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Stockton-on-Tees",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS18 1JP"
+    }
+  },
+  {
+    "name": "S&S Teesside Skip Hire",
+    "address": "1 Bath Ln, Stockton-on-Tees TS18 2DS, UK",
+    "coordinates": {
+      "lat": 54.56793159999999,
+      "lng": -1.3100128
+    },
+    "place_id": "ChIJ07IPws_FYUoRuR_HdqbrftI",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07424 683531",
+    "website": "https://www.facebook.com/share/13ywMHdwB7/?mibextid=LQQJ4d",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "1",
+      "route": "Bath Lane",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS18 2DS"
+    }
+  },
+  {
+    "name": "Everything Go's Rubbish Removals",
+    "address": "Dunstable Rd, Middlesbrough TS5 4AL, UK",
+    "coordinates": {
+      "lat": 54.56715269999999,
+      "lng": -1.262635
+    },
+    "place_id": "ChIJLSBbBkvtfkgRnRnAQpMdOz0",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 897369",
+    "website": "https://www.egrubbishremoval.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Dunstable Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS5 4AL"
+    }
+  },
+  {
+    "name": "Mr rubbish-Teesside",
+    "address": "26 Arncliffe Rd, Middlesbrough TS5 4AR, UK",
+    "coordinates": {
+      "lat": 54.5666909,
+      "lng": -1.2607022
+    },
+    "place_id": "ChIJdb6GUMztfkgRIMnqbDUfpzw",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07855 632089",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "26",
+      "route": "Arncliffe Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS5 4AR"
+    }
+  },
+  {
+    "name": "Accredited Metal Recycling",
+    "address": "1 Alberto St, Stockton-on-Tees TS18 2BQ, UK",
+    "coordinates": {
+      "lat": 54.5715178,
+      "lng": -1.3128619
+    },
+    "place_id": "ChIJb7GYKPCSfkgRETfgDkYnOT4",
+    "materials": [
+      "metal"
+    ],
+    "website_materials": {},
+    "phone": "07379 289375",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "1",
+      "route": "Alberto Street",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS18 2BQ"
+    }
+  },
+  {
+    "name": "Middlesbrough Snap Skips Rental",
+    "address": "Lodore Grove, Middlesbrough TS5 8PA, UK",
+    "coordinates": {
+      "lat": 54.5443498,
+      "lng": -1.25948
+    },
+    "place_id": "ChIJf37TiwrtfkgR72u17i8Ovlw",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 937747",
+    "website": null,
+    "rating": 4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Lodore Grove",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS5 8PA"
+    }
+  },
+  {
+    "name": "Smart Recycling - Cash 4 Clothes",
+    "address": "Pavilion Shopping Centre, Thornaby, Stockton-on-Tees TS17 9FF, UK",
+    "coordinates": {
+      "lat": 54.5406426,
+      "lng": -1.2910924
+    },
+    "place_id": "ChIJQylBNzmTfkgR8sV-LPHVyng",
+    "materials": [
+      "metal",
+      "textile",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "textile": [
+        "clothing",
+        "clothes"
+      ]
+    },
+    "phone": "01609 780555",
+    "website": "http://www.smartrecycling.org.uk/",
+    "rating": 2.4,
+    "opening_hours": [
+      "Monday: 9:30 AM – 5:00 PM",
+      "Tuesday: 9:30 AM – 5:00 PM",
+      "Wednesday: 9:30 AM – 5:00 PM",
+      "Thursday: 9:30 AM – 5:00 PM",
+      "Friday: 9:30 AM – 5:00 PM",
+      "Saturday: 9:30 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Pavilion Shopping Centre",
+      "locality": "Thornaby",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS17 9FF"
+    }
+  },
+  {
+    "name": "Accredited Processed Metals Ltd",
+    "address": "Oxbridge, Alcum Works, Light Pipe Hall Rd, Stockton-on-Tees TS18 4AQ, UK",
+    "coordinates": {
+      "lat": 54.5641356,
+      "lng": -1.3248991
+    },
+    "place_id": "ChIJr0CazPiSfkgRT8-bNqeljE8",
+    "materials": [
+      "metal",
+      "batteries",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "steel",
+        "copper",
+        "scrap metal"
+      ],
+      "batteries": [
+        "batteries"
+      ]
+    },
+    "phone": "01642 676445",
+    "website": "http://www.apmstockton.com/",
+    "rating": 3.2,
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:50 PM",
+      "Tuesday: 8:00 AM – 3:50 PM",
+      "Wednesday: 8:00 AM – 3:50 PM",
+      "Thursday: 8:00 AM – 3:50 PM",
+      "Friday: 8:00 AM – 3:50 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Alcum Works",
+      "route": "Light Pipe Hall Road",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS18 4AQ"
+    }
+  },
+  {
+    "name": "Screwfix Thornaby",
+    "address": "55 Perry Ave, Thornaby, Stockton-on-Tees TS17 9LN, UK",
+    "coordinates": {
+      "lat": 54.5260707,
+      "lng": -1.292281
+    },
+    "place_id": "ChIJO62TetWTfkgR0wM5fhB08ag",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ]
+    },
+    "phone": "0333 011 2112",
+    "website": "https://www.screwfix.com/stores/RB4/Thornaby?utm_source=google&utm_medium=organic&utm_campaign=Google_RB4",
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "55",
+      "route": "Perry Avenue",
+      "locality": "Thornaby",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS17 9LN"
+    }
+  },
+  {
+    "name": "Skippy Waste Services",
+    "address": "Yarm Road Depot, The Recycling Centre, Yarm Rd, Stockton-on-Tees TS18 3RU, UK",
+    "coordinates": {
+      "lat": 54.5477287,
+      "lng": -1.3343207
+    },
+    "place_id": "ChIJxY8FaK-TfkgR10xrHi70mpo",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": "01642 612999",
+    "website": "https://www.skippyskips.co.uk/?utm_source=GMB%20Listing",
+    "rating": 4.1,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Yarm Road Depot",
+      "premise": "The Recycling Centre",
+      "route": "Yarm Road",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS18 3RU"
+    }
+  },
+  {
+    "name": "Clear It! (Teesside) Ltd",
+    "address": "Sober Hall Ave, Thornaby, Stockton-on-Tees TS17 0QS, UK",
+    "coordinates": {
+      "lat": 54.5168204,
+      "lng": -1.3118575
+    },
+    "place_id": "ChIJTSgmV5aVfkgRX3Cn8KhYVZU",
+    "materials": [
+      "metal",
+      "hazardous",
+      "glass",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron",
+        "scrap metal"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "hazardous": [
+        "hazardous",
+        "chemical",
+        "paint",
+        "oil"
+      ]
+    },
+    "phone": "01642 946976",
+    "website": "http://www.clearit-teesside.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Sober Hall Avenue",
+      "locality": "Thornaby",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS17 0QS"
+    }
+  },
+  {
+    "name": "Granulated Glass Research Ltd",
+    "address": "Nature's World, Ladgate Lane, Middlesbrough TS5 7YN, UK",
+    "coordinates": {
+      "lat": 54.53547409999999,
+      "lng": -1.2389827
+    },
+    "place_id": "ChIJa7F_kJTsfkgRbT82CXJr1mM",
+    "materials": [
+      "hazardous",
+      "glass",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "hazardous": [
+        "paint"
+      ]
+    },
+    "phone": "07765 090062",
+    "website": "http://granulatedglass.com/",
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS5 7YN"
+    }
+  },
+  {
+    "name": "Skips Rental Stockton",
+    "address": "W Row, Stockton-on-Tees TS18 1EF, UK",
+    "coordinates": {
+      "lat": 54.5637182,
+      "lng": -1.3143315
+    },
+    "place_id": "ChIJ4bI4ygyTfkgRFqX9E6zkV8k",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 061167",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "West Row",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS18 1EF"
+    }
+  },
+  {
+    "name": "T Farrow Scrap Metals",
+    "address": "Unit 20, Bowesfield Industrial Estate, Bowesfield Ln, Stockton-on-Tees TS18 3HJ, UK",
+    "coordinates": {
+      "lat": 54.5591497,
+      "lng": -1.31814
+    },
+    "place_id": "ChIJWYDY7f2SfkgRdkjh8OG6qqY",
+    "materials": [
+      "metal"
+    ],
+    "website_materials": {},
+    "phone": "01642 634258",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 10:00 AM – 2:00 PM",
+      "Tuesday: 10:00 AM – 2:00 PM",
+      "Wednesday: 10:00 AM – 2:00 PM",
+      "Thursday: 10:00 AM – 2:00 PM",
+      "Friday: 10:00 AM – 2:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Unit 20",
+      "premise": "Bowesfield Industrial Estate",
+      "route": "Bowesfield Lane",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS18 3HJ"
+    }
+  },
+  {
+    "name": "Rubbish Removal Stockton - Clear Away Rubbish Removals",
+    "address": "Bone Street, Stockton-on-Tees TS18 2BY, UK",
+    "coordinates": {
+      "lat": 54.5699092,
+      "lng": -1.3127406
+    },
+    "place_id": "ChIJTZ5g-e-SfkgRLwQ68xTi6Vg",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 604297",
+    "website": "https://clearaway-rubbish.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:30 PM",
+      "Tuesday: 8:30 AM – 5:30 PM",
+      "Wednesday: 8:30 AM – 5:30 PM",
+      "Thursday: 8:30 AM – 5:30 PM",
+      "Friday: 8:30 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Bone Street",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS18 2BY"
+    }
+  },
+  {
+    "name": "Household Waste Recycling Centre",
+    "address": "Billingham, Stockton-on-Tees, Billingham TS23 1PZ, UK",
+    "coordinates": {
+      "lat": 54.5970539,
+      "lng": -1.2538864
+    },
+    "place_id": "ChIJ7wv47FvtfkgR55MLtHRlRtI",
+    "materials": [
+      "batteries",
+      "textile",
+      "hazardous",
+      "glass",
+      "plastic",
+      "automotive",
+      "electronics",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "electronics": [
+        "computers",
+        "phones"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "textile": [
+        "textile",
+        "clothes"
+      ],
+      "hazardous": [
+        "paint"
+      ]
+    },
+    "phone": null,
+    "website": "https://www.stockton.gov.uk/article/1401/Haverton-Hill-household-waste-recycling-centre",
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "neighborhood": "Billingham",
+      "locality": "Stockton-on-Tees",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PZ"
+    }
+  },
+  {
+    "name": "SUEZ recycling and recovery UK",
+    "address": "Tees Valley HWRC, Haverton Hill Rd, Stockton-on-Tees, Billingham TS23 1PY, UK",
+    "coordinates": {
+      "lat": 54.5950929,
+      "lng": -1.2586443
+    },
+    "place_id": "ChIJK5K-Z0_tfkgR8UAhj68WQJI",
+    "materials": [
+      "organic",
+      "hazardous",
+      "glass",
+      "plastic",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "01642 202300",
+    "website": "https://bit.ly/GBP_SUEZ_North",
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Tees Valley HWRC",
+      "route": "Haverton Hill Road",
+      "locality": "Stockton-on-Tees",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PY"
+    }
+  },
+  {
+    "name": "Haverton Hill Recyclying Centre",
+    "address": "1PY, Haverton Hill Rd, Stockton-on-Tees, Billingham TS23 1PY, UK",
+    "coordinates": {
+      "lat": 54.59694,
+      "lng": -1.2588598
+    },
+    "place_id": "ChIJCd_O6E_tfkgRi4Zweue5c4k",
+    "materials": [
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "07723 466991",
+    "website": "https://digital.stockton.gov.uk/article/992/Book-a-slot-Household-Waste-Recycling-Centre-Haverton-Hill",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Haverton Hill Road",
+      "locality": "Stockton-on-Tees",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PY"
+    }
+  },
+  {
+    "name": "Thirteen Recycling Centre",
+    "address": "Cowpen Lane Industrial Estate, Unit 11 Royce Ave, Billingham TS23 4BX, UK",
+    "coordinates": {
+      "lat": 54.6132967,
+      "lng": -1.2632781
+    },
+    "place_id": "ChIJB1x-76_yfkgR5jslLplxatM",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": null,
+    "website": "http://www.thirteengroup.co.uk/",
+    "rating": 4,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Cowpen Lane Industrial Estate",
+      "street_number": "Unit 11",
+      "route": "Royce Avenue",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 4BX"
+    }
+  },
+  {
+    "name": "Scott Bros Recycling",
+    "address": "Haverton Hill Road, Stockton-on-Tees, Billingham TS23 1PY, UK",
+    "coordinates": {
+      "lat": 54.5957514,
+      "lng": -1.2535154
+    },
+    "place_id": "ChIJaQ86d1ztfkgRx1e__k00qF8",
+    "materials": [
+      "metal",
+      "hazardous",
+      "plastic",
+      "paper"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron"
+      ],
+      "paper": [
+        "cardboard"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "01642 750666",
+    "website": "https://scottbros.com/other-services/recycling/",
+    "rating": 3.8,
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: 7:30 AM – 12:30 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Billingham",
+      "locality": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PY"
+    }
+  },
+  {
+    "name": "CNC Recycling Ltd",
+    "address": "Vulcan St, Middlesbrough TS2 1PP, UK",
+    "coordinates": {
+      "lat": 54.5833191,
+      "lng": -1.2317879
+    },
+    "place_id": "ChIJxfQdXkHtfkgRbJWz2h5Salg",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 983188",
+    "website": "http://www.upvc-recycling.com/",
+    "rating": 3.8,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 AM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Vulcan Street",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS2 1PP"
+    }
+  },
+  {
+    "name": "Trinity recycling center",
+    "address": "Billingham Reach Industrial Estate, Stockton-on-Tees, Billingham TS23 1PS, UK",
+    "coordinates": {
+      "lat": 54.586885,
+      "lng": -1.2668026
+    },
+    "place_id": "ChIJFXjAhortfkgREsue4n3basg",
+    "materials": [
+      "general"
+    ],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Stockton-on-Tees",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PS"
+    }
+  },
+  {
+    "name": "EMR Middlesbrough",
+    "address": "Depot Rd, Middlesbrough TS2 1LE, UK",
+    "coordinates": {
+      "lat": 54.5853775,
+      "lng": -1.2398243
+    },
+    "place_id": "ChIJDdHbbWztfkgRfxZB6PrexyY",
+    "materials": [
+      "batteries",
+      "hazardous",
+      "glass",
+      "plastic",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PVC",
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "steel",
+        "copper",
+        "iron",
+        "scrap metal"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "01642 247419",
+    "website": "https://uk.emrlocal.com/yards/emr-middlesbrough-scrap-metal",
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:30 – 11:15 AM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Depot Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS2 1LE"
+    }
+  },
+  {
+    "name": "Scott Bros Ltd",
+    "address": "Haverton Hill Rd, Stockton-on-Tees TS23 1PY, UK",
+    "coordinates": {
+      "lat": 54.5907838,
+      "lng": -1.2613822
+    },
+    "place_id": "ChIJGxj380_tfkgRO8lcAtUfCZk",
+    "materials": [
+      "hazardous",
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "hazardous": [
+        "paint",
+        "oil"
+      ]
+    },
+    "phone": "01642 750666",
+    "website": "https://scottbros.com/commercial-refinishing/",
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Haverton Hill Road",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PY"
+    }
+  },
+  {
+    "name": "DCE Recycle ITLtd",
+    "address": "Collingwood Court Riverside Park Industrial Estate, 36 Collingwood Ct, Middlesbrough TS2 1RP, UK",
+    "coordinates": {
+      "lat": 54.5873996,
+      "lng": -1.2547553
+    },
+    "place_id": "ChIJJ23SEUTtfkgRjPy7QxdNOm8",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07597 126327",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Collingwood Court Riverside Park Industrial Estate",
+      "street_number": "36",
+      "route": "Collingwood Court",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS2 1RP"
+    }
+  },
+  {
+    "name": "Carlin Howe Recycling Centre",
+    "address": "B1269, Guisborough TS14 6RA, UK",
+    "coordinates": {
+      "lat": 54.5527223,
+      "lng": -1.0561969
+    },
+    "place_id": "ChIJkQkPkw3lfkgRfHXi3iA4W9w",
+    "materials": [
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "01642 774774",
+    "website": "https://www.redcar-cleveland.gov.uk/bins-and-waste-services/dunsdale-tip",
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: Closed",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "B1269",
+      "postal_town": "Guisborough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS14 6RA"
+    }
+  },
+  {
+    "name": "1st Choice Waste Management Ltd",
+    "address": "Tod Point Rd, Cleveland, Redcar TS10 5AU, UK",
+    "coordinates": {
+      "lat": 54.6176071,
+      "lng": -1.0971
+    },
+    "place_id": "ChIJPyXu5zrwfkgRPxsQY4iqBwc",
+    "materials": [
+      "metal",
+      "hazardous",
+      "plastic",
+      "general"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "hazardous": [
+        "hazardous",
+        "oil"
+      ]
+    },
+    "phone": "01642 478734",
+    "website": "https://1stchoicewaste.co.uk/",
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Tod Point Road",
+      "locality": "Cleveland",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 5AU"
+    }
+  },
+  {
+    "name": "EMR Marske",
+    "address": "Longbeck Estate, Marske-by-the-Sea, Redcar TS11 6HB, UK",
+    "coordinates": {
+      "lat": 54.5906581,
+      "lng": -1.0302994
+    },
+    "place_id": "ChIJgbZOijjlfkgRe8C56GPfAKI",
+    "materials": [
+      "batteries",
+      "hazardous",
+      "glass",
+      "plastic",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PVC",
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "steel",
+        "copper",
+        "iron",
+        "scrap metal"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "01642 482386",
+    "website": "https://uk.emrlocal.com/yards/emr-marske-scrap-metal",
+    "rating": 4.8,
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Longbeck Estate",
+      "locality": "Marske-by-the-Sea",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS11 6HB"
+    }
+  },
+  {
+    "name": "Sainsbury's Local",
+    "address": "110 Bankfields Rd, Middlesbrough TS6 0TF, UK",
+    "coordinates": {
+      "lat": 54.5541449,
+      "lng": -1.1468578
+    },
+    "place_id": "ChIJO1xlK4nufkgRpczNCFHjozM",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": "0330 013 7433",
+    "website": "https://stores.sainsburys.co.uk/4632/eston-local?utm_source=gmb&utm_medium=yext&y_source=1_MTU1NjcxODUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4,
+    "opening_hours": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 10:00 PM",
+      "Saturday: 6:00 AM – 10:00 PM",
+      "Sunday: 6:00 AM – 10:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "110",
+      "route": "Bankfields Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 0TF"
+    }
+  },
+  {
+    "name": "CSG Wilton",
+    "address": "Boundary Road West, Wilton International, Lazenby, Middlesbrough TS6 8JH, UK",
+    "coordinates": {
+      "lat": 54.575295,
+      "lng": -1.103096
+    },
+    "place_id": "ChIJSXPpG7HvfkgR3H-EsltaOBc",
+    "materials": [
+      "hazardous",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "hazardous": [
+        "hazardous",
+        "chemical",
+        "oil"
+      ]
+    },
+    "phone": "01642 200119",
+    "website": "http://www.csg.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Middlesbrough",
+      "locality": "Lazenby",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 8JH"
+    }
+  },
+  {
+    "name": "House Clearance & Removal Company",
+    "address": "15 Herne Cl, Redcar TS10 2TF, UK",
+    "coordinates": {
+      "lat": 54.5943201,
+      "lng": -1.056946
+    },
+    "place_id": "ChIJnRcOGFjlfkgRFv1AUfkJ5EQ",
+    "materials": [
+      "metal",
+      "textile",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "textile": [
+        "clothing"
+      ]
+    },
+    "phone": "01642 484365",
+    "website": "https://house-clearance-removal-company.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "15",
+      "route": "Herne Close",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 2TF"
+    }
+  },
+  {
+    "name": "Sainsbury's Local",
+    "address": "1-2 Embleton Court, Redcar TS10 2RF, UK",
+    "coordinates": {
+      "lat": 54.600203,
+      "lng": -1.0572664
+    },
+    "place_id": "ChIJdbBIzlXlfkgRZDlYyIUd0dQ",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": "0330 013 7451",
+    "website": "https://stores.sainsburys.co.uk/4668/greenstones-road-local?utm_source=gmb&utm_medium=yext&y_source=1_MTU1NjcyMzgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "1-2",
+      "route": "Embleton Court",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 2RF"
+    }
+  },
+  {
+    "name": "Asda Redcar Supermarket",
+    "address": "The Courts, Roseberry Rd, Redcar TS10 4NY, UK",
+    "coordinates": {
+      "lat": 54.6029533,
+      "lng": -1.0755861
+    },
+    "place_id": "ChIJnR3CxeLvfkgRzuXdoXt7T3M",
+    "materials": [
+      "glass",
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "glass": [
+        "glass"
+      ]
+    },
+    "phone": "01642 391820",
+    "website": "http://storelocator.asda.com/store/redcar",
+    "rating": 4,
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "The Courts",
+      "route": "Roseberry Road",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 4NY"
+    }
+  },
+  {
+    "name": "CSG Middlesbrough",
+    "address": "Bolckow Industrial Estate, Holden Cl, Middlesbrough TS6 7AL, UK",
+    "coordinates": {
+      "lat": 54.5791863,
+      "lng": -1.1571519
+    },
+    "place_id": "ChIJ35iPoXPufkgREMN3QtER9E0",
+    "materials": [
+      "hazardous",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "hazardous": [
+        "hazardous",
+        "chemical",
+        "oil"
+      ]
+    },
+    "phone": "01642 200119",
+    "website": "http://www.csg.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Bolckow Industrial Estate",
+      "route": "Holden Close",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 7AL"
+    }
+  },
+  {
+    "name": "WasteQHSE",
+    "address": "2 Hayburn Cl, Redcar TS10 2PZ, UK",
+    "coordinates": {
+      "lat": 54.5999569,
+      "lng": -1.0527531
+    },
+    "place_id": "ChIJ58of-1PlfkgRdSc-WGbLcAs",
+    "materials": [
+      "metal"
+    ],
+    "website_materials": {
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": "07582 309095",
+    "website": "http://www.wasteqhse.com/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "2",
+      "route": "Hayburn Close",
+      "postal_town": "Redcar",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS10 2PZ"
+    }
+  },
+  {
+    "name": "Burniston Household Waste Recycling Centre",
+    "address": "Burniston Rd, Scarborough YO13 0DA, UK",
+    "coordinates": {
+      "lat": 54.313554,
+      "lng": -0.4346285
+    },
+    "place_id": "ChIJ2a9g2ZE4f0gRC0x4u8EchaI",
+    "materials": [
+      "organic",
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "organic": [
+        "compost"
+      ]
+    },
+    "phone": null,
+    "website": "http://www.northyorks.gov.uk/burnistonhwrc",
+    "rating": 4.7,
+    "opening_hours": [
+      "Monday: 8:30 AM – 4:00 PM",
+      "Tuesday: 8:30 AM – 4:00 PM",
+      "Wednesday: Closed",
+      "Thursday: 8:30 AM – 4:00 PM",
+      "Friday: 8:30 AM – 4:00 PM",
+      "Saturday: 8:30 AM – 4:00 PM",
+      "Sunday: 8:30 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Burniston Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO13 0DA"
+    }
+  },
+  {
+    "name": "A Brunton Waste",
+    "address": "Red Oaks, Cayton Low Rd, Eastfield, Scarborough YO11 3BY, UK",
+    "coordinates": {
+      "lat": 54.23807799999999,
+      "lng": -0.403646
+    },
+    "place_id": "ChIJt8H0FxhIf0gRnpLx-RxNsIk",
+    "materials": [
+      "metal",
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "01262 672591",
+    "website": "http://www.abruntonskiphire.co.uk/",
+    "rating": 4.8,
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:00 – 11:00 AM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Red Oaks",
+      "route": "Cayton Low Road",
+      "locality": "Eastfield",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11 3BY"
+    }
+  },
+  {
+    "name": "Screwfix Scarborough",
+    "address": "Dunslow Rd, Dunslow Ct, Eastfield, Scarborough YO11 3UT, UK",
+    "coordinates": {
+      "lat": 54.2378952,
+      "lng": -0.4128795
+    },
+    "place_id": "ChIJsTqNmR9If0gR7HkFyVYgQCI",
+    "materials": [
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ]
+    },
+    "phone": "0333 011 2112",
+    "website": "https://www.screwfix.com/stores/RA4/Scarborough?utm_source=google&utm_medium=organic&utm_campaign=Google_RA4",
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Dunslow Court",
+      "locality": "Eastfield",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11 3UT"
+    }
+  },
+  {
+    "name": "Rob The Van Man",
+    "address": "3 Centurion Way, Scarborough YO12 4LE, UK",
+    "coordinates": {
+      "lat": 54.2382328,
+      "lng": -0.4291645
+    },
+    "place_id": "ChIJWYs7lec3f0gRm8Je9yaK0a4",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07866 627253",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "3",
+      "route": "Centurion Way",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO12 4LE"
+    }
+  },
+  {
+    "name": "Coastal Removals & Tip Runs",
+    "address": "Shield Wy., Scarborough YO11 3WG, UK",
+    "coordinates": {
+      "lat": 54.2462892,
+      "lng": -0.4052875
+    },
+    "place_id": "ChIJ74MLJ7JJf0gRO1-N2_V0V9E",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": "07508 693593",
+    "website": "https://coastalremovals.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Shield Way",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11 3WG"
+    }
+  },
+  {
+    "name": "Vine Street Metals Ltd",
+    "address": "27 Vine St, Scarborough YO11 1XN, UK",
+    "coordinates": {
+      "lat": 54.2833234,
+      "lng": -0.405544
+    },
+    "place_id": "ChIJfcbcoI1Hf0gRNuWWFUTVX6M",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "scrap metal"
+      ]
+    },
+    "phone": "01723 371572",
+    "website": "https://www.vinestreetmetals.co.uk/contact",
+    "rating": 4.9,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 – 11:00 AM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "27",
+      "route": "Vine Street",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11 1XN"
+    }
+  },
+  {
+    "name": "Tiffany Rowe Removals & Waste",
+    "address": "Flat 2, 163 Columbus Ravine, Scarborough YO12 7QZ, UK",
+    "coordinates": {
+      "lat": 54.28829500000001,
+      "lng": -0.4084273
+    },
+    "place_id": "ChIJ51PTFGhHf0gR5CO6BqEv9d4",
+    "materials": [
+      "metal"
+    ],
+    "website_materials": {
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": "07563 323707",
+    "website": "https://tiffanyroweremovals.co.uk/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Flat 2",
+      "street_number": "163",
+      "route": "Columbus Ravine",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO12 7QZ"
+    }
+  },
+  {
+    "name": "Sainsbury's Local",
+    "address": "62-64 Ramshill Rd, Scarborough YO11 2QG, UK",
+    "coordinates": {
+      "lat": 54.27317600000001,
+      "lng": -0.4027037
+    },
+    "place_id": "ChIJ507lJO5Hf0gR_wFjBoRQ_m0",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": "0330 013 7516",
+    "website": "https://stores.sainsburys.co.uk/4781/ramshill-road-local?utm_source=gmb&utm_medium=yext&y_source=1_MTU1NjY2OTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4,
+    "opening_hours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "62-64",
+      "route": "Ramshill Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11 2QG"
+    }
+  },
+  {
+    "name": "Scarborough Removals & Waste Disposal",
+    "address": "Falsgrave Rd, Scarborough YO12 5EY, UK",
+    "coordinates": {
+      "lat": 54.2765768,
+      "lng": -0.417042
+    },
+    "place_id": "ChIJiwUBzkI5f0gReC3NTWyKTuk",
+    "materials": [
+      "automotive"
+    ],
+    "website_materials": {},
+    "phone": "07538 882772",
+    "website": "http://www.facebook.com/SRWDUK",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:30 PM",
+      "Tuesday: 8:30 AM – 5:30 PM",
+      "Wednesday: 8:30 AM – 5:30 PM",
+      "Thursday: 8:30 AM – 5:30 PM",
+      "Friday: 8:30 AM – 5:30 PM",
+      "Saturday: 9:30 AM – 4:30 PM",
+      "Sunday: 9:30 AM – 4:30 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Falsgrave Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO12 5EY"
+    }
+  },
+  {
+    "name": "Tesco Superstore",
+    "address": "Tesco Stores Ltd, Westwood, Scarborough YO11 2PN, UK",
+    "coordinates": {
+      "lat": 54.27952250000001,
+      "lng": -0.4052507
+    },
+    "place_id": "ChIJTUq7B_NHf0gRv7K0ymFrm5o",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PS"
+      ]
+    },
+    "phone": "0345 677 9614",
+    "website": "https://www.tesco.com/store-locator/scarborough/tesco-stores-ltd?sc_cmp=ref*yg*stc*3166&utm_source=yext_google&utm_campaign=local_Superstore_England&utm_medium=organic",
+    "rating": 4.1,
+    "opening_hours": [
+      "Monday: 6:00 AM – 12:00 AM",
+      "Tuesday: 6:00 AM – 12:00 AM",
+      "Wednesday: 6:00 AM – 12:00 AM",
+      "Thursday: 6:00 AM – 12:00 AM",
+      "Friday: 6:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Tesco Stores Ltd",
+      "route": "Westwood",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11 2PN"
+    }
+  },
+  {
+    "name": "B&Q Scarborough",
+    "address": "Seamer Rd, North Yorkshire, Scarborough YO12 4DJ, UK",
+    "coordinates": {
+      "lat": 54.2618919,
+      "lng": -0.4157918
+    },
+    "place_id": "ChIJ3Q2B2Pw3f0gRQ1jnSzo4q6A",
+    "materials": [
+      "batteries",
+      "organic",
+      "textile",
+      "hazardous",
+      "glass",
+      "plastic",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PET",
+        "PVC",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "bottles"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "automotive": [
+        "automotive"
+      ],
+      "organic": [
+        "compost"
+      ],
+      "textile": [
+        "fabric",
+        "clothes"
+      ],
+      "hazardous": [
+        "paint",
+        "oil"
+      ]
+    },
+    "phone": "01723 500477",
+    "website": "https://www.diy.com/store/1103?utm_source=google&utm_medium=organic&utm_campaign=Google_1103",
+    "rating": 4.1,
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Seamer Road",
+      "sublocality_level_1": "North Yorkshire",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO12 4DJ"
+    }
+  },
+  {
+    "name": "Easy Skip Rental Services - SCAR",
+    "address": "Victoria Rd, Scarborough YO11 1SD, UK",
+    "coordinates": {
+      "lat": 54.2827746,
+      "lng": -0.4055514
+    },
+    "place_id": "ChIJi-FZ-0lHf0gRR5NdkGHhcaw",
+    "materials": [
+      "batteries",
+      "hazardous",
+      "plastic",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "hazardous": [
+        "hazardous",
+        "chemical",
+        "paint",
+        "oil"
+      ]
+    },
+    "phone": "01723 334187",
+    "website": "https://www.easyskiphire.co.uk/easy-skip-hire-scarborough",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Victoria Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11 1SD"
+    }
+  },
+  {
+    "name": "Fin plastic bottle recycling",
+    "address": "Foreshore Rd, Scarborough YO11, UK",
+    "coordinates": {
+      "lat": 54.2804138,
+      "lng": -0.3970605
+    },
+    "place_id": "ChIJJ8zh-UpHf0gRxShWUSZX1fg",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Foreshore Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11"
+    }
+  },
+  {
+    "name": "Dean road local",
+    "address": "61 Dean Rd, Scarborough YO12 7QS, UK",
+    "coordinates": {
+      "lat": 54.2853207,
+      "lng": -0.4068226
+    },
+    "place_id": "ChIJT2N4_55Hf0gRWgaYgcUuf90",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01723 376547",
+    "website": null,
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 6:00 AM – 12:00 AM",
+      "Tuesday: 6:00 AM – 12:00 AM",
+      "Wednesday: 6:00 AM – 12:00 AM",
+      "Thursday: 6:00 AM – 12:00 AM",
+      "Friday: 6:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 12:00 AM",
+      "Sunday: 6:00 AM – 12:00 AM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "61",
+      "route": "Dean Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO12 7QS"
+    }
+  },
+  {
+    "name": "Tesco Express",
+    "address": "Tesco 21, 23 Castle Rd, Scarborough YO11 1BG, UK",
+    "coordinates": {
+      "lat": 54.2842267,
+      "lng": -0.4031021
+    },
+    "place_id": "ChIJ5yaad5JHf0gRDmBGtJ-0LiQ",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PS"
+      ]
+    },
+    "phone": "0333 345 1665",
+    "website": "https://www.tesco.com/store-locator/scarborough/tesco?sc_cmp=ref*yg*stc*5476&utm_source=yext_google&utm_campaign=local_Express_England&utm_medium=organic",
+    "rating": 3.7,
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Tesco 21",
+      "street_number": "23",
+      "route": "Castle Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11 1BG"
+    }
+  },
+  {
+    "name": "Tesco Express",
+    "address": "83-85 Burniston Rd, Scarborough YO12 6PH, UK",
+    "coordinates": {
+      "lat": 54.2974938,
+      "lng": -0.4184575
+    },
+    "place_id": "ChIJCf4MSH84f0gRhO6GiEMiar4",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PS"
+      ]
+    },
+    "phone": "0333 345 1574",
+    "website": "https://www.tesco.com/store-locator/scarborough/83-85-burniston-rd?sc_cmp=ref*yg*stc*5351&utm_source=yext_google&utm_campaign=local_Express_England&utm_medium=organic",
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "83-85",
+      "route": "Burniston Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO12 6PH"
+    }
+  },
+  {
+    "name": "Whitby Auto Breakers",
+    "address": "6 Cleveland Rd, Scarborough YO12 7BG, UK",
+    "coordinates": {
+      "lat": 54.2824185,
+      "lng": -0.4108825
+    },
+    "place_id": "ChIJBTemeotHf0gR2kn9fpqnpF0",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01947 878290",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "6",
+      "route": "Cleveland Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO12 7BG"
+    }
+  },
+  {
+    "name": "TradePoint Scarborough",
+    "address": "Seamer Rd, Scarborough YO12 4DJ, UK",
+    "coordinates": {
+      "lat": 54.2618489,
+      "lng": -0.415394
+    },
+    "place_id": "ChIJBdAde_9Hf0gRHDSfNIe5Kw0",
+    "materials": [
+      "batteries",
+      "organic",
+      "textile",
+      "hazardous",
+      "glass",
+      "plastic",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PET",
+        "PVC",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "steel"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "automotive": [
+        "automotive"
+      ],
+      "organic": [
+        "compost"
+      ],
+      "textile": [
+        "clothes"
+      ],
+      "hazardous": [
+        "paint",
+        "oil"
+      ]
+    },
+    "phone": "01723 500477",
+    "website": "https://www.trade-point.co.uk/store/1103?utm_source=google&utm_medium=organic&utm_campaign=Google_1103",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Seamer Road",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO12 4DJ"
+    }
+  },
+  {
+    "name": "A1 Vehicle recycling",
+    "address": "5 Durham Pl, Scarborough YO12 7QA, UK",
+    "coordinates": {
+      "lat": 54.2869051,
+      "lng": -0.4024937
+    },
+    "place_id": "ChIJTzQnm9hHf0gRZkankQZIMcU",
+    "materials": [
+      "automotive"
+    ],
+    "website_materials": {},
+    "phone": "01904 890611",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 7:00 AM – 5:30 PM",
+      "Tuesday: 7:00 AM – 5:30 PM",
+      "Wednesday: 7:00 AM – 5:30 PM",
+      "Thursday: 7:00 AM – 5:30 PM",
+      "Friday: 7:00 AM – 5:30 PM",
+      "Saturday: 8:30 AM – 5:30 PM",
+      "Sunday: 8:30 AM – 5:30 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "5",
+      "route": "Durham Place",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO12 7QA"
+    }
+  },
+  {
+    "name": "Ryman Stationery",
+    "address": "44 Westborough, Scarborough YO11 1UT, UK",
+    "coordinates": {
+      "lat": 54.28067859999999,
+      "lng": -0.4038503
+    },
+    "place_id": "ChIJ20fqUo1Hf0gRK-PNizvMgoo",
+    "materials": [
+      "batteries",
+      "hazardous",
+      "glass",
+      "plastic",
+      "electronics",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "bottles"
+      ],
+      "electronics": [
+        "electronics",
+        "phones"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "hazardous": [
+        "paint"
+      ]
+    },
+    "phone": "01723 331007",
+    "website": "https://www.ryman.co.uk/storefinder/ryman-scarborough/?utm_source=gmb&utm_medium=yext&y_source=1_MTU0NzE4MDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 5:30 PM",
+      "Sunday: 11:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "44",
+      "route": "Westborough",
+      "postal_town": "Scarborough",
+      "administrative_area_level_2": "North Yorkshire",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO11 1UT"
+    }
+  },
+  {
+    "name": "C&N Recycling",
+    "address": "44 Hickling Grove, Stockton-on-Tees TS19 0XA, UK",
+    "coordinates": {
+      "lat": 54.5757153,
+      "lng": -1.3542484
+    },
+    "place_id": "ChIJ4ZlzpkCSfkgRgqo8w_Rc2XA",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 895156",
+    "website": null,
+    "rating": 4.5,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "44",
+      "route": "Hickling Grove",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS19 0XA"
+    }
+  },
+  {
+    "name": "Cupral",
+    "address": "Middlesbrough TS2 1DJ, UK",
+    "coordinates": {
+      "lat": 54.5757262,
+      "lng": -1.2585161
+    },
+    "place_id": "ChIJg51MqGrtfkgR0sz_zUHu3Hw",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 2.8,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS2 1DJ"
+    }
+  },
+  {
+    "name": "Tesco Recycling Station",
+    "address": "Unnamed Road, York YO24 1LW, UK",
+    "coordinates": {
+      "lat": 53.9316347,
+      "lng": -1.115937
+    },
+    "place_id": "ChIJ6RKMmjgxeUgRUv0eBEOfKqA",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 4,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Unnamed Road",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO24 1LW"
+    }
+  },
+  {
+    "name": "York Washers",
+    "address": "21 Rose Ave, Nether Poppleton, York YO26 6RR, UK",
+    "coordinates": {
+      "lat": 53.97614420000001,
+      "lng": -1.1278489
+    },
+    "place_id": "ChIJ-y09VU8xeUgRfnlJfk03Vaw",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01904 792785",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "21",
+      "route": "Rose Avenue",
+      "locality": "Nether Poppleton",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO26 6RR"
+    }
+  },
+  {
+    "name": "Hazel Court",
+    "address": "1 Hazel Ct, York YO10 3DS, UK",
+    "coordinates": {
+      "lat": 53.95861859999999,
+      "lng": -1.0664114
+    },
+    "place_id": "ChIJX5M4P7cxeUgRrynQxhly9uE",
+    "materials": [
+      "organic",
+      "hazardous",
+      "glass",
+      "plastic",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "organic": [
+        "compost"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "01904 551550",
+    "website": "https://www.york.gov.uk/info/20091/household_waste/613/hazel_court_household_waste_recycling_centre_hwrc",
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:00 PM",
+      "Tuesday: 8:30 AM – 5:00 PM",
+      "Wednesday: Closed",
+      "Thursday: 8:30 AM – 5:00 PM",
+      "Friday: 8:30 AM – 5:00 PM",
+      "Saturday: 8:30 AM – 5:00 PM",
+      "Sunday: 8:30 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "1",
+      "route": "Hazel Court",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO10 3DS"
+    }
+  },
+  {
+    "name": "The Recycle Project CIC",
+    "address": "41 Huby Ct, Walmgate, York YO1 9UD, UK",
+    "coordinates": {
+      "lat": 53.9555868,
+      "lng": -1.071162
+    },
+    "place_id": "ChIJ9Z52wL0xeUgR5LO4OviKDs0",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01904 421894",
+    "website": "http://www.therecycleprojectcic.com/",
+    "rating": 4.7,
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "41",
+      "route": "Walmgate",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO1 9UD"
+    }
+  },
+  {
+    "name": "Greenloop",
+    "address": "4, Concept Court, Kettlestring Ln, York YO30 4XF, UK",
+    "coordinates": {
+      "lat": 53.9886855,
+      "lng": -1.0971326
+    },
+    "place_id": "ChIJFfw_LbQxeUgR0vcXMiP3yK8",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01904 862105",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 6:00 AM – 7:00 PM",
+      "Tuesday: 6:00 AM – 7:00 PM",
+      "Wednesday: 6:00 AM – 7:00 PM",
+      "Thursday: 6:00 AM – 7:00 PM",
+      "Friday: 6:00 AM – 7:00 PM",
+      "Saturday: 6:00 AM – 7:00 PM",
+      "Sunday: 6:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Concept Court",
+      "route": "Kettlestring Lane",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO30 4XF"
+    }
+  },
+  {
+    "name": "Recycle York (Bike Shop)",
+    "address": "3, Enterprise Complex, Walmgate, York YO1 9TT, UK",
+    "coordinates": {
+      "lat": 53.9573852,
+      "lng": -1.0763946
+    },
+    "place_id": "ChIJUa30nLExeUgRTGiqlrA8li0",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01904 848141",
+    "website": "http://www.recycleyork.co.uk/",
+    "rating": 4.9,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 5:30 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "3",
+      "premise": "Enterprise Complex",
+      "route": "Walmgate",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO1 9TT"
+    }
+  },
+  {
+    "name": "Naburn Recycling Works",
+    "address": "WW87+7Q, York YO19 4RN, UK",
+    "coordinates": {
+      "lat": 53.9156355,
+      "lng": -1.0855738
+    },
+    "place_id": "ChIJJ2MqFgAxeUgRj7x9teEKYww",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "WW87+7Q",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO19 4RN"
+    }
+  },
+  {
+    "name": "Martins Of York",
+    "address": "173 Osbaldwick Ln, York YO10 3BA, UK",
+    "coordinates": {
+      "lat": 53.958772,
+      "lng": -1.0347999
+    },
+    "place_id": "ChIJBzaI2dcxeUgRv-gWcYF6LoU",
+    "materials": [
+      "metal",
+      "hazardous",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "hazardous": [
+        "hazardous",
+        "oil"
+      ]
+    },
+    "phone": "01904 412476",
+    "website": "https://www.martinsskips.co.uk/",
+    "rating": 3.4,
+    "opening_hours": [
+      "Monday: 6:30 AM – 4:00 PM",
+      "Tuesday: 6:30 AM – 4:00 PM",
+      "Wednesday: 6:30 AM – 4:00 PM",
+      "Thursday: 6:30 AM – 4:00 PM",
+      "Friday: 6:30 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 12:30 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "173",
+      "route": "Osbaldwick Lane",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO10 3BA"
+    }
+  },
+  {
+    "name": "York Transport And Waste Solutions",
+    "address": "Wigginton Rd, York YO32 2RJ, UK",
+    "coordinates": {
+      "lat": 53.9930618,
+      "lng": -1.0886643
+    },
+    "place_id": "ChIJ91FGUQAzeUgRBPonELfxDmE",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07590 231219",
+    "website": "http://yorktransportandwastesolutions.com/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Wigginton Road",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO32 2RJ"
+    }
+  },
+  {
+    "name": "Clancey L & Sons",
+    "address": "Murton Ln, Murton, York YO19 5UF, UK",
+    "coordinates": {
+      "lat": 53.9629355,
+      "lng": -1.0085666
+    },
+    "place_id": "ChIJxUfm2UcueUgRF-afpf-bsFA",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01904 489169",
+    "website": "http://www.clanceysofyork.co.uk/",
+    "rating": 4.2,
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:00 PM",
+      "Tuesday: 8:30 AM – 5:00 PM",
+      "Wednesday: 8:30 AM – 5:00 PM",
+      "Thursday: 8:30 AM – 5:00 PM",
+      "Friday: 8:30 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Murton Lane",
+      "locality": "Murton",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO19 5UF"
+    }
+  },
+  {
+    "name": "Acomb Waste Disposal",
+    "address": "32 Jute Rd, Acomb, York YO26 5EN, UK",
+    "coordinates": {
+      "lat": 53.9615939,
+      "lng": -1.1337049
+    },
+    "place_id": "ChIJraquJzIxeUgRqjsZGatNr9g",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07724 441630",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "32",
+      "route": "Jute Road",
+      "sublocality_level_1": "Acomb",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO26 5EN"
+    }
+  },
+  {
+    "name": "Screwfix York - James Street",
+    "address": "Unit 2, Geralds Court, Phoenix Business Centre, Hazel Ct, York YO10 3DQ, UK",
+    "coordinates": {
+      "lat": 53.9584668,
+      "lng": -1.067302
+    },
+    "place_id": "ChIJ20cbN7cxeUgRp91IWZ9MloE",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ]
+    },
+    "phone": "0333 011 2112",
+    "website": "https://www.screwfix.com/stores/MB6/York-JamesStreet?utm_source=google&utm_medium=organic&utm_campaign=Google_MB6",
+    "rating": 4.6,
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "subpremise": "Unit 2",
+      "premise": "Phoenix Business Centre",
+      "route": "Hazel Court",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO10 3DQ"
+    }
+  },
+  {
+    "name": "Divert",
+    "address": "Artemis House, Eboracum Wy, Heworth, York YO31 7RE, UK",
+    "coordinates": {
+      "lat": 53.96417169999999,
+      "lng": -1.0716618
+    },
+    "place_id": "ChIJH2WaiSExeUgRx0qvpxEFH3o",
+    "materials": [
+      "organic",
+      "hazardous",
+      "glass",
+      "plastic",
+      "automotive",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "organic": [
+        "food waste"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "0333 444 0118",
+    "website": "http://www.divert.co.uk/",
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Eboracum Way",
+      "sublocality_level_1": "Heworth",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO31 7RE"
+    }
+  },
+  {
+    "name": "Sainsbury's Local",
+    "address": "56-58 Blossom St, York YO24 1AP, UK",
+    "coordinates": {
+      "lat": 53.95437219999999,
+      "lng": -1.0935909
+    },
+    "place_id": "ChIJO0_bUwExeUgRj_GXtffVld4",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": "0330 013 7471",
+    "website": "https://stores.sainsburys.co.uk/4700/blossom-street-local?utm_source=gmb&utm_medium=yext&y_source=1_MTU1NjY1NjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 3.9,
+    "opening_hours": [
+      "Monday: 7:00 AM – 12:00 AM",
+      "Tuesday: 7:00 AM – 12:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: 7:00 AM – 12:00 AM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "56-58",
+      "route": "Blossom Street",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO24 1AP"
+    }
+  },
+  {
+    "name": "Screwfix York - Clifton Moor",
+    "address": "clifton moor centre, Stirling Rd, York YO30 4WZ, UK",
+    "coordinates": {
+      "lat": 53.9912899,
+      "lng": -1.0993793
+    },
+    "place_id": "ChIJ9eoAJNYzeUgRRcy3kNOXQwY",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ]
+    },
+    "phone": "0333 011 2112",
+    "website": "https://www.screwfix.com/stores/ET7/York-CliftonMoor?utm_source=google&utm_medium=organic&utm_campaign=Google_ET7",
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "clifton moor centre",
+      "route": "Stirling Road",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO30 4WZ"
+    }
+  },
+  {
+    "name": "Waste Directory",
+    "address": "Fermetol Trading Estate, Leeman Rd, York YO26 4XD, UK",
+    "coordinates": {
+      "lat": 53.9605083,
+      "lng": -1.0979648
+    },
+    "place_id": "ChIJhR95gw8xeUgRferaKQOC5Ts",
+    "materials": [
+      "metal",
+      "organic",
+      "hazardous",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal"
+      ],
+      "organic": [
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous",
+        "chemical"
+      ]
+    },
+    "phone": "01904 295170",
+    "website": "http://wastedirectory.org.uk/",
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Leeman Road",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO26 4XD"
+    }
+  },
+  {
+    "name": "Sainsbury's Local",
+    "address": "31 Bootham, York YO30 7BT, UK",
+    "coordinates": {
+      "lat": 53.9635631,
+      "lng": -1.0862684
+    },
+    "place_id": "ChIJFVSjDqcxeUgRyYci8WtDCog",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": "0330 013 7600",
+    "website": "https://stores.sainsburys.co.uk/4930/bootham-local?utm_source=gmb&utm_medium=yext&y_source=1_MTU1Njc1ODEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4.2,
+    "opening_hours": [
+      "Monday: 6:00 AM – 12:00 AM",
+      "Tuesday: 6:00 AM – 12:00 AM",
+      "Wednesday: 6:00 AM – 12:00 AM",
+      "Thursday: 6:00 AM – 12:00 AM",
+      "Friday: 6:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 12:00 AM",
+      "Sunday: 6:00 AM – 12:00 AM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "31",
+      "route": "Bootham",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO30 7BT"
+    }
+  },
+  {
+    "name": "Sainsbury's Local",
+    "address": "8-10 Farndale Ave, York YO10 3PE, UK",
+    "coordinates": {
+      "lat": 53.9564727,
+      "lng": -1.0337373
+    },
+    "place_id": "ChIJS6Xo3CkueUgRWIkjAaQSfss",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ]
+    },
+    "phone": "0330 013 7508",
+    "website": "https://stores.sainsburys.co.uk/4765/osbaldwick-local?utm_source=gmb&utm_medium=yext&y_source=1_MTU1NjY2OTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "8-10",
+      "route": "Farndale Avenue",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO10 3PE"
+    }
+  },
+  {
+    "name": "BusinessWaste.co.uk",
+    "address": "Artemis House, Eboracum Wy, Heworth Grn, Heworth, York YO31 7RE, UK",
+    "coordinates": {
+      "lat": 53.9643454,
+      "lng": -1.0714471
+    },
+    "place_id": "ChIJ99H3cOL6e0gRJfvBc--5bGY",
+    "materials": [
+      "organic",
+      "hazardous",
+      "glass",
+      "plastic",
+      "electronics",
+      "paper",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal",
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "electronics": [
+        "e-waste"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous",
+        "oil"
+      ]
+    },
+    "phone": "0800 211 8390",
+    "website": "https://www.businesswaste.co.uk/",
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Heworth Green",
+      "sublocality_level_1": "Heworth",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO31 7RE"
+    }
+  },
+  {
+    "name": "Tesco Express",
+    "address": "Tesco Express, 34 Piccadilly, York YO1 9NX, UK",
+    "coordinates": {
+      "lat": 53.9570078,
+      "lng": -1.0784867
+    },
+    "place_id": "ChIJpzpq-64xeUgRvJsf6Xs_73A",
+    "materials": [
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PS"
+      ]
+    },
+    "phone": "0333 345 2300",
+    "website": "https://www.tesco.com/store-locator/york/tesco-express-53247371-f2b6-4a89-9b03-f5a15b7d0744?sc_cmp=ref*yg*stc*6518&utm_source=yext_google&utm_campaign=local_Express_England&utm_medium=organic",
+    "rating": 3.9,
+    "opening_hours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Tesco Express",
+      "street_number": "34",
+      "route": "Piccadilly",
+      "postal_town": "York",
+      "administrative_area_level_2": "York",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "YO1 9NX"
+    }
+  }
+]

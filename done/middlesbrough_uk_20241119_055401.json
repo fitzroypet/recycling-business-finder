@@ -1,0 +1,803 @@
+[
+  {
+    "name": "Household Waste Recycling Centre",
+    "address": "Billingham, Stockton-on-Tees, Billingham TS23 1PZ, UK",
+    "coordinates": {
+      "lat": 54.5970539,
+      "lng": -1.2538864
+    },
+    "place_id": "ChIJ7wv47FvtfkgR55MLtHRlRtI",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "neighborhood": "Billingham",
+      "locality": "Stockton-on-Tees",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PZ"
+    }
+  },
+  {
+    "name": "Palm Recycling",
+    "address": "Pearsons Yard, Puddlers Rd, Middlesbrough TS6 6TX, UK",
+    "coordinates": {
+      "lat": 54.5825347,
+      "lng": -1.1727699
+    },
+    "place_id": "ChIJVfjWreDtfkgRP_qINIgvy_g",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 456274",
+    "website": null,
+    "rating": 4,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Pearsons Yard",
+      "route": "Puddlers Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 6TX"
+    }
+  },
+  {
+    "name": "Haverton Hill Recyclying Centre",
+    "address": "1PY, Haverton Hill Rd, Stockton-on-Tees, Billingham TS23 1PY, UK",
+    "coordinates": {
+      "lat": 54.5969399,
+      "lng": -1.2588367
+    },
+    "place_id": "ChIJCd_O6E_tfkgRi4Zweue5c4k",
+    "materials": [
+      "automotive",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP"
+      ],
+      "automotive": [
+        "vehicle"
+      ]
+    },
+    "phone": "07723 466991",
+    "website": "https://digital.stockton.gov.uk/article/992/Book-a-slot-Household-Waste-Recycling-Centre-Haverton-Hill",
+    "rating": 4.4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Haverton Hill Road",
+      "locality": "Stockton-on-Tees",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PY"
+    }
+  },
+  {
+    "name": "Thirteen Recycling Centre",
+    "address": "Cowpen Lane Industrial Estate, Unit 11 Royce Ave, Billingham TS23 4BX, UK",
+    "coordinates": {
+      "lat": 54.61327180000001,
+      "lng": -1.263336
+    },
+    "place_id": "ChIJB1x-76_yfkgR5jslLplxatM",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": null,
+    "website": "http://www.thirteengroup.co.uk/",
+    "rating": 4,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Cowpen Lane Industrial Estate",
+      "street_number": "Unit 11",
+      "route": "Royce Avenue",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 4BX"
+    }
+  },
+  {
+    "name": "SUEZ recycling and recovery UK",
+    "address": "Tees Valley HWRC, Haverton Hill Rd, Stockton-on-Tees, Billingham TS23 1PY, UK",
+    "coordinates": {
+      "lat": 54.5950929,
+      "lng": -1.2586443
+    },
+    "place_id": "ChIJK5K-Z0_tfkgR8UAhj68WQJI",
+    "materials": [
+      "organic",
+      "paper",
+      "plastic",
+      "hazardous",
+      "glass",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "organic": [
+        "compost",
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "01642 202300",
+    "website": "https://bit.ly/GBP_SUEZ_North",
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Tees Valley HWRC",
+      "route": "Haverton Hill Road",
+      "locality": "Stockton-on-Tees",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PY"
+    }
+  },
+  {
+    "name": "CNC Recycling Ltd",
+    "address": "Vulcan St, Middlesbrough TS2 1PP, UK",
+    "coordinates": {
+      "lat": 54.5833191,
+      "lng": -1.2317879
+    },
+    "place_id": "ChIJxfQdXkHtfkgRbJWz2h5Salg",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 983188",
+    "website": "http://www.upvc-recycling.com/",
+    "rating": 4.7,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 AM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Vulcan Street",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS2 1PP"
+    }
+  },
+  {
+    "name": "Scott Bros Recycling",
+    "address": "Haverton Hill Road, Stockton-on-Tees, Billingham TS23 1PY, UK",
+    "coordinates": {
+      "lat": 54.5957514,
+      "lng": -1.2535154
+    },
+    "place_id": "ChIJaQ86d1ztfkgRx1e__k00qF8",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 750666",
+    "website": "https://scottbros.com/other-services/recycling/",
+    "rating": 3.8,
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: 7:30 AM – 12:30 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Billingham",
+      "locality": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PY"
+    }
+  },
+  {
+    "name": "EMR Middlesbrough",
+    "address": "Depot Rd, Middlesbrough TS2 1LE, UK",
+    "coordinates": {
+      "lat": 54.5853775,
+      "lng": -1.2398243
+    },
+    "place_id": "ChIJDdHbbWztfkgRfxZB6PrexyY",
+    "materials": [
+      "paper",
+      "plastic",
+      "hazardous",
+      "automotive",
+      "glass",
+      "batteries",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PVC",
+        "PP"
+      ],
+      "metal": [
+        "metal",
+        "steel",
+        "copper",
+        "iron",
+        "scrap metal"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "batteries": [
+        "batteries"
+      ],
+      "automotive": [
+        "vehicle"
+      ],
+      "hazardous": [
+        "oil"
+      ]
+    },
+    "phone": "01642 247419",
+    "website": "https://uk.emrlocal.com/yards/emr-middlesbrough-scrap-metal",
+    "rating": 4.5,
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:30 – 11:15 AM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Depot Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS2 1LE"
+    }
+  },
+  {
+    "name": "Recycling IT",
+    "address": "Tees Court, Wallis Rd, Skippers Lane Industrial Estate, Middlesbrough TS6 6JB, UK",
+    "coordinates": {
+      "lat": 54.5717904,
+      "lng": -1.1843371
+    },
+    "place_id": "ChIJod7MksXtfkgROxRaqt_BiAE",
+    "materials": [
+      "organic",
+      "paper",
+      "electronics",
+      "plastic",
+      "glass",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "electronics": [
+        "e-waste",
+        "computers",
+        "electronic waste"
+      ],
+      "organic": [
+        "food waste"
+      ]
+    },
+    "phone": "01642 455466",
+    "website": "http://www.recycling-it.co.uk/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 3:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Tees Court",
+      "route": "Wallis Road",
+      "locality": "Skippers Lane Industrial Estate",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 6JB"
+    }
+  },
+  {
+    "name": "Trinity recycling center",
+    "address": "Billingham Reach Industrial Estate, Stockton-on-Tees, Billingham TS23 1PS, UK",
+    "coordinates": {
+      "lat": 54.586885,
+      "lng": -1.2668026
+    },
+    "place_id": "ChIJFXjAhortfkgREsue4n3basg",
+    "materials": [
+      "general"
+    ],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Stockton-on-Tees",
+      "postal_town": "Billingham",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PS"
+    }
+  },
+  {
+    "name": "J&B Recycling (South Tees)",
+    "address": "Normanby Wharf, Middlesbrough TS3 8AT, UK",
+    "coordinates": {
+      "lat": 54.5806834,
+      "lng": -1.1961986
+    },
+    "place_id": "ChIJ0YHkS7btfkgR9i75ANg5WSY",
+    "materials": [
+      "organic",
+      "paper",
+      "plastic",
+      "hazardous",
+      "glass",
+      "metal"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "metal"
+      ],
+      "paper": [
+        "paper",
+        "cardboard"
+      ],
+      "glass": [
+        "glass",
+        "bottles"
+      ],
+      "organic": [
+        "food waste"
+      ],
+      "hazardous": [
+        "hazardous"
+      ]
+    },
+    "phone": "01642 232215",
+    "website": "https://www.jbrecycling.co.uk/",
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:30 PM",
+      "Tuesday: 7:00 AM – 4:30 PM",
+      "Wednesday: 7:00 AM – 4:30 PM",
+      "Thursday: 7:00 AM – 4:30 PM",
+      "Friday: 7:00 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Normanby Wharf",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8AT"
+    }
+  },
+  {
+    "name": "Signif Recycling",
+    "address": "Middlesbrough TS3 8BT, UK",
+    "coordinates": {
+      "lat": 54.5703116,
+      "lng": -1.1990574
+    },
+    "place_id": "ChIJL7GDg2vtfkgRtb3sM2NLVNI",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07462 005205",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 4:00 AM",
+      "Tuesday: 9:00 AM – 4:00 AM",
+      "Wednesday: 9:00 AM – 4:00 AM",
+      "Thursday: 9:00 AM – 4:00 AM",
+      "Friday: 9:00 AM – 4:00 AM",
+      "Saturday: 9:00 AM – 4:00 AM",
+      "Sunday: 9:00 AM – 4:00 AM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Middlesbrough",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS3 8BT"
+    }
+  },
+  {
+    "name": "Scott Bros Recycling Ltd. South Tees Recycle Centre",
+    "address": "Holden close, Bolkow Industrial Estate, Holden Cl, Middlesbrough TS6 7BN, UK",
+    "coordinates": {
+      "lat": 54.5794329,
+      "lng": -1.1580166
+    },
+    "place_id": "ChIJNx7_p3PufkgRQM1s2v_egaY",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 750666",
+    "website": "http://www.scottbros.com/contact-us/",
+    "rating": 3,
+    "opening_hours": [
+      "Monday: 7:30 AM – 5:30 PM",
+      "Tuesday: 7:30 AM – 5:30 PM",
+      "Wednesday: 7:30 AM – 5:30 PM",
+      "Thursday: 7:30 AM – 5:30 PM",
+      "Friday: 7:30 AM – 5:30 PM",
+      "Saturday: 7:30 AM – 1:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Holden Close",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 7BN"
+    }
+  },
+  {
+    "name": "Scott Bros Ltd",
+    "address": "Haverton Hill Rd, Stockton-on-Tees TS23 1PY, UK",
+    "coordinates": {
+      "lat": 54.5907838,
+      "lng": -1.2613822
+    },
+    "place_id": "ChIJGxj380_tfkgRO8lcAtUfCZk",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 750666",
+    "website": "https://scottbros.com/commercial-refinishing/",
+    "rating": 4.3,
+    "opening_hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Haverton Hill Road",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS23 1PY"
+    }
+  },
+  {
+    "name": "DCE Recycle ITLtd",
+    "address": "Collingwood Court Riverside Park Industrial Estate, 36 Collingwood Ct, Middlesbrough TS2 1RP, UK",
+    "coordinates": {
+      "lat": 54.5873996,
+      "lng": -1.2547553
+    },
+    "place_id": "ChIJJ23SEUTtfkgRjPy7QxdNOm8",
+    "materials": [],
+    "website_materials": {},
+    "phone": "07597 126327",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Collingwood Court Riverside Park Industrial Estate",
+      "street_number": "36",
+      "route": "Collingwood Court",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS2 1RP"
+    }
+  },
+  {
+    "name": "Middlesbrough Snap Skips Rental",
+    "address": "Lodore Grove, Middlesbrough TS5 8PA, UK",
+    "coordinates": {
+      "lat": 54.5443498,
+      "lng": -1.25948
+    },
+    "place_id": "ChIJf37TiwrtfkgR72u17i8Ovlw",
+    "materials": [],
+    "website_materials": {},
+    "phone": "01642 937747",
+    "website": null,
+    "rating": 4,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Lodore Grove",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS5 8PA"
+    }
+  },
+  {
+    "name": "Quick stop recycle ltd",
+    "address": "4 Depot Rd, Middlesbrough TS2 1LE, UK",
+    "coordinates": {
+      "lat": 54.5841568,
+      "lng": -1.2364611
+    },
+    "place_id": "ChIJWS8wLADtfkgR6Dj8S6sBw5M",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "4",
+      "route": "Depot Road",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS2 1LE"
+    }
+  },
+  {
+    "name": "Smart Recycling - Cash 4 Clothes",
+    "address": "Pavilion Shopping Centre, Thornaby, Stockton-on-Tees TS17 9FF, UK",
+    "coordinates": {
+      "lat": 54.5406426,
+      "lng": -1.2910924
+    },
+    "place_id": "ChIJQylBNzmTfkgR8sV-LPHVyng",
+    "materials": [
+      "textile",
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "textile": [
+        "clothing",
+        "clothes"
+      ]
+    },
+    "phone": "01609 780555",
+    "website": "http://www.smartrecycling.org.uk/",
+    "rating": 2.4,
+    "opening_hours": [
+      "Monday: 9:30 AM – 5:00 PM",
+      "Tuesday: 9:30 AM – 5:00 PM",
+      "Wednesday: 9:30 AM – 5:00 PM",
+      "Thursday: 9:30 AM – 5:00 PM",
+      "Friday: 9:30 AM – 5:00 PM",
+      "Saturday: 9:30 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "premise": "Pavilion Shopping Centre",
+      "locality": "Thornaby",
+      "postal_town": "Stockton-on-Tees",
+      "administrative_area_level_2": "Stockton-on-Tees",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS17 9FF"
+    }
+  },
+  {
+    "name": "Cupral",
+    "address": "Middlesbrough TS2 1DJ, UK",
+    "coordinates": {
+      "lat": 54.5757262,
+      "lng": -1.2585161
+    },
+    "place_id": "ChIJg51MqGrtfkgR0sz_zUHu3Hw",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 2.8,
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Middlesbrough",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS2 1DJ"
+    }
+  },
+  {
+    "name": "Smart Recycling - Cash 4 Clothes",
+    "address": "Ind Est near Pets at Home, Cleveland Retail Park, Skippers Ln, Middlesbrough TS6 6UX, UK",
+    "coordinates": {
+      "lat": 54.56992510000001,
+      "lng": -1.1804328
+    },
+    "place_id": "ChIJXyOI82DtfkgRDMUo_RGtESw",
+    "materials": [
+      "textile",
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "textile": [
+        "clothing",
+        "clothes"
+      ]
+    },
+    "phone": "01609 780555",
+    "website": "http://www.smartrecycling.org.uk/",
+    "rating": 3.7,
+    "opening_hours": [
+      "Monday: 10:00 AM – 5:00 PM",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "Ind Est near Pets at Home",
+      "premise": "Cleveland Retail Park",
+      "route": "Skippers Lane",
+      "postal_town": "Middlesbrough",
+      "administrative_area_level_2": "Redcar and Cleveland",
+      "administrative_area_level_1": "England",
+      "country": "United Kingdom",
+      "postal_code": "TS6 6UX"
+    }
+  }
+]

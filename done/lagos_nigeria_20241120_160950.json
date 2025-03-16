@@ -1,0 +1,717 @@
+[
+  {
+    "name": "Anie Recycle Resources",
+    "address": "Road 5, Royal Estate Badagry, Alaka, Lagos 000001, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.4877672,
+      "lng": 3.356155
+    },
+    "place_id": "ChIJowZ9lTSNOxAR6WQvAPDdksY",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Lagos",
+      "neighborhood": "Alaka",
+      "administrative_area_level_3": "Iponri Housing Estate/Eric Moore",
+      "administrative_area_level_2": "Surulere",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "000001"
+    }
+  },
+  {
+    "name": "STATEWIDE WASTE AND ENVIRONMENTAL EDUCATION FOUNDATION",
+    "address": "30 Onibu Ore Street Off Afolabi Dada Street Itire-Ikate LCDA, Surulere, Lagos 101283, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5044828,
+      "lng": 3.3415784
+    },
+    "place_id": "ChIJ7cVSMJWNOxARnVdJoqL9mL4",
+    "materials": [
+      "metal",
+      "plastic"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ]
+    },
+    "phone": "0817 199 9112",
+    "website": "https://www.sweepfoundation.org.ng/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "neighborhood": "Surulere",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Ikate",
+      "administrative_area_level_2": "Surulere",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "101283"
+    }
+  },
+  {
+    "name": "Nikeron Recycling and Waste Management",
+    "address": "Immam Dauda St, Iganmu, Lagos 101211, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.485019599999999,
+      "lng": 3.3529826
+    },
+    "place_id": "ChIJV7Ys7V-NOxARYlWLxesM4i8",
+    "materials": [
+      "general"
+    ],
+    "website_materials": {},
+    "phone": "16332229",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "route": "Immam Dauda Street",
+      "neighborhood": "Iganmu",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Iponri Housing Estate/Eric Moore",
+      "administrative_area_level_2": "Surulere",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "101211"
+    }
+  },
+  {
+    "name": "Wecyclers",
+    "address": "F9MH+F4Q, Odaliki St, Ebute Metta, Lagos 101245, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.483714399999999,
+      "lng": 3.3778659
+    },
+    "place_id": "ChIJ22bZxn-MOxARI1ea4SN0fHo",
+    "materials": [
+      "paper",
+      "plastic",
+      "electronics",
+      "metal",
+      "glass"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "electronics": [
+        "phones"
+      ]
+    },
+    "phone": "0909 743 9630",
+    "website": "http://www.wecyclers.com/",
+    "rating": 4.1,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "F9MH+F4Q",
+      "route": "Odaliki Street",
+      "sublocality_level_1": "Ebute Metta",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Epetedo",
+      "administrative_area_level_2": "Lagos Mainland",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "101245"
+    }
+  },
+  {
+    "name": "SJRECYCLING",
+    "address": "6 Airport Cl, off MMIA, Mafoluku Oshodi, Oshodi/Isolo 100001, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.551566999999999,
+      "lng": 3.3332511
+    },
+    "place_id": "ChIJGUYay36POxAR-cX2Bilao7g",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0802 955 4160",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "6",
+      "landmark": "MMIA",
+      "route": "Airport Close",
+      "neighborhood": "Mafoluku Oshodi",
+      "locality": "Ikeja",
+      "administrative_area_level_3": "Mafoluku",
+      "administrative_area_level_2": "Oshodi/Isolo",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "100001"
+    }
+  },
+  {
+    "name": "Wecyclers Recycling Exchange, Gbagada",
+    "address": "H92R+8C4 behind Ifako Playground, Ifelodun Street, opposite Ora Ekpen Crescent, Gbagada, Lagos 100242, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.550760599999999,
+      "lng": 3.3910873
+    },
+    "place_id": "ChIJUcwMtuyNOxARrOH_VyJoboE",
+    "materials": [
+      "paper",
+      "plastic",
+      "electronics",
+      "metal",
+      "glass"
+    ],
+    "website_materials": {
+      "plastic": [
+        "plastic",
+        "PET",
+        "PP",
+        "PS"
+      ],
+      "metal": [
+        "iron"
+      ],
+      "paper": [
+        "paper"
+      ],
+      "glass": [
+        "glass"
+      ],
+      "electronics": [
+        "phones"
+      ]
+    },
+    "phone": null,
+    "website": "http://www.wecyclers.com/",
+    "rating": 4.7,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "behind Ifako Playground",
+      "plus_code": "H92R+8C4",
+      "route": "Ifelodun Street",
+      "neighborhood": "Gbagada",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Ifako/Soluyi",
+      "administrative_area_level_2": "Kosofe",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "100242"
+    }
+  },
+  {
+    "name": "Yabatech Recycling Center",
+    "address": "Abule ijesha, Lagos 101245, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5193815,
+      "lng": 3.372779
+    },
+    "place_id": "ChIJvVnR31OMOxARm_wLaETLSPs",
+    "materials": [
+      "general"
+    ],
+    "website_materials": {},
+    "phone": "0813 881 4697",
+    "website": null,
+    "rating": 3,
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "neighborhood": "Abule ijesha",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Yaba/Igbobi",
+      "administrative_area_level_2": "Lagos Mainland",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "101245"
+    }
+  },
+  {
+    "name": "Trashusers Recycling Hub, YABATECH",
+    "address": "College of Technology, Beside Multipurpose Hall, Yaba, Ikeja 101245, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5184674,
+      "lng": 3.3760405
+    },
+    "place_id": "ChIJVzJ1tfiNOxARQj5VPr6BHos",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0803 050 2628",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "College of Technology",
+      "premise": "Beside Multipurpose Hall",
+      "neighborhood": "Yaba",
+      "locality": "Ikeja",
+      "administrative_area_level_3": "Oyadiran Estate/Abule-Oja",
+      "administrative_area_level_2": "Lagos Mainland",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "101245"
+    }
+  },
+  {
+    "name": "Lagos Waste Management Authority (LAWMA) Incinerator & Recycle Depot",
+    "address": "F9MH+942, Ibadan Street (West), Ebute Metta, Lagos 101245, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.4833116,
+      "lng": 3.3777884
+    },
+    "place_id": "ChIJ78LOvn-MOxARinsZRM8mE1o",
+    "materials": [
+      "general"
+    ],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "F9MH+942",
+      "route": "Ibadan Street (West)",
+      "sublocality_level_1": "Ebute Metta",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Epetedo",
+      "administrative_area_level_2": "Lagos Mainland",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "101245"
+    }
+  },
+  {
+    "name": "Food and Beverage Recycling Alliance",
+    "address": "c/o Nigerian Breweries sales annex, Iganmu House, Abebe Village Rd, Iganmu, Lagos 101241, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.481978,
+      "lng": 3.3616815
+    },
+    "place_id": "ChIJ5WBH5ImLOxAR2vhlpveYq3M",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0814 179 2334",
+    "website": "http://fbranigeria.org/",
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "point_of_interest": "c/o Nigerian Breweries sales annex",
+      "premise": "Iganmu House",
+      "route": "Abebe Village Road",
+      "neighborhood": "Iganmu",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Iponri Housing Estate/Eric Moore",
+      "administrative_area_level_2": "Surulere",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "101241"
+    }
+  },
+  {
+    "name": "Jimbatec Ecocycle",
+    "address": "9 Ijaiye St, Itire, Lagos 102215, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5120077,
+      "lng": 3.3335753
+    },
+    "place_id": "ChIJ20wEUwCPOxARFAp3Ncbrhm0",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0902 251 9843",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "9",
+      "route": "Ijaiye Street",
+      "neighborhood": "Itire",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Itire",
+      "administrative_area_level_2": "Mushin",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "102215"
+    }
+  },
+  {
+    "name": "Scrappy Affairs",
+    "address": "1 Dimeji Alonge Street, Opposite Chicken Republic, Nepa Bus Stop, Aguda Surulere Surulere, Surulere, Lagos 101283, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.4991724,
+      "lng": 3.3585273
+    },
+    "place_id": "ChIJ9Vp9FseNOxARAcVGZN8IRn0",
+    "materials": [
+      "metal"
+    ],
+    "website_materials": {},
+    "phone": "0809 098 2801",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 8:30 AM – 6:00 PM",
+      "Tuesday: 8:30 AM – 6:00 PM",
+      "Wednesday: 8:30 AM – 6:00 PM",
+      "Thursday: 8:30 AM – 6:00 PM",
+      "Friday: 8:30 AM – 6:00 PM",
+      "Saturday: 8:30 AM – 6:00 PM",
+      "Sunday: 8:30 AM – 6:00 PM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "locality": "Lagos",
+      "neighborhood": "Surulere",
+      "administrative_area_level_3": "Igbaja/Stadium",
+      "administrative_area_level_2": "Surulere",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "101283"
+    }
+  },
+  {
+    "name": "Nylon Recycling Centre",
+    "address": "H93V+VHC, Williams St, Gbagada, Lagos 105102, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5547077,
+      "lng": 3.3938704
+    },
+    "place_id": "ChIJM7TBNm-NOxARqROLl9_2em4",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0807 998 2897",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "H93V+VHC",
+      "route": "Williams Street",
+      "neighborhood": "Gbagada",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Ifako/Soluyi",
+      "administrative_area_level_2": "Kosofe",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "105102"
+    }
+  },
+  {
+    "name": "Richovelt Resources Limited",
+    "address": "H98M+2P3, Nwabuo Brown St, Kosofe, Lagos 100242, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5650122,
+      "lng": 3.3842923
+    },
+    "place_id": "ChIJMxS1yMGNOxARQQ5tXMfbOcE",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0806 325 2884",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "H98M+2P3",
+      "route": "Nwabuo Brown Street",
+      "neighborhood": "Ifako",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Ifako/Soluyi",
+      "administrative_area_level_2": "Kosofe",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "100242"
+    }
+  },
+  {
+    "name": "Trash2wealth",
+    "address": "22 Folorunsho St, Akoka, Lagos 100213, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5319607,
+      "lng": 3.3897088
+    },
+    "place_id": "ChIJnQoBgCeNOxARGGlbRJMEIQ4",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0802 846 7748",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "22",
+      "route": "Folorunsho Street",
+      "neighborhood": "Akoka",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Ilaje/Akoka",
+      "administrative_area_level_2": "Shomolu",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "100213"
+    }
+  },
+  {
+    "name": "Tangerine Recycling Bin",
+    "address": "H93V+MGP, Estate Dr, Gbagada, Lagos 100242, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5542149,
+      "lng": 3.393835
+    },
+    "place_id": "ChIJBabjNJyNOxARYBnNOz2sxSU",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "H93V+MGP",
+      "route": "Estate Dr",
+      "neighborhood": "Gbagada",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Ifako/Soluyi",
+      "administrative_area_level_2": "Kosofe",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "100242"
+    }
+  },
+  {
+    "name": "Sigix Recycling venture",
+    "address": "27 Ijero St, Ikate, Lagos 101241, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5058908,
+      "lng": 3.3423692
+    },
+    "place_id": "ChIJbxKKeamNOxARsPglR7_1ghs",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0808 367 5461",
+    "website": null,
+    "rating": 5,
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "27",
+      "route": "Ijero Street",
+      "neighborhood": "Ikate",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Ikate",
+      "administrative_area_level_2": "Surulere",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "101241"
+    }
+  },
+  {
+    "name": "Urbanfixie recyclers",
+    "address": "3 olumide, Banjoko St, off Koshofe, Gbagada, Lagos 105102, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5605106,
+      "lng": 3.3938384
+    },
+    "place_id": "ChIJD8IkiTuNOxAROQRVFH40tzc",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0806 570 9361",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "landmark": "Koshofe",
+      "route": "Banjoko Street",
+      "neighborhood": "Gbagada",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Ifako/Soluyi",
+      "administrative_area_level_2": "Kosofe",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "105102"
+    }
+  },
+  {
+    "name": "Ecosafe",
+    "address": "8 Matanmi St, Tinubu Estate Rd, Fadeyi, Ikorodu 102215, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5310959,
+      "lng": 3.3650539
+    },
+    "place_id": "ChIJz-OkQLGNOxARxlA8Ug8ld-Y",
+    "materials": [],
+    "website_materials": {},
+    "phone": "0803 075 0370",
+    "website": null,
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "street_number": "8",
+      "route": "Tinubu Estate Rd",
+      "neighborhood": "Fadeyi",
+      "locality": "Ikorodu",
+      "administrative_area_level_3": "Kayode/Fadeyi",
+      "administrative_area_level_2": "Mushin",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "102215"
+    }
+  },
+  {
+    "name": "Tangerine Recycling Bin",
+    "address": "Lekki - Ikoyi Link Bridge, G9MQ+F9H, Akoka, Lagos 102216, Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5336875,
+      "lng": 3.3884875
+    },
+    "place_id": "ChIJzWaaifeNOxAR4GxhWuUbsa8",
+    "materials": [],
+    "website_materials": {},
+    "phone": null,
+    "website": "http://tangerinelife.com/csr",
+    "rating": 0,
+    "opening_hours": [],
+    "service_keywords": [],
+    "address_components": {
+      "plus_code": "G9MQ+F9H",
+      "neighborhood": "Akoka",
+      "locality": "Lagos",
+      "administrative_area_level_3": "Ilaje/Akoka",
+      "administrative_area_level_2": "Shomolu",
+      "administrative_area_level_1": "Lagos",
+      "country": "Nigeria",
+      "postal_code": "102216"
+    }
+  }
+]
