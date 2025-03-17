@@ -50,14 +50,25 @@ ecycling-businesses/
 
 bash
 git clone https://github.com/fitzroypet/recycling-business-finder.git
+<<<<<<< HEAD
 cd recycling-business-finder
+=======
+
+cd recycling-businesses
+>>>>>>> f89a424a0afdecdf2d16409c4b85ff31a6114f4b
 
 
 2. Create and activate a virtual environment:
 
 bash
+
 python -m venv .venv
-source .venv/bin/activate # On Windows: .venv\Scripts\activate
+
+
+source .venv/bin/activate 
+
+
+On Windows: .venv\Scripts\activate
 
 
 3. Install required packages:
